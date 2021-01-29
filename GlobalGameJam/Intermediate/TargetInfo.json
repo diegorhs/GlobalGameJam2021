@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GlobalGameJam",
+			"Path": "C:\\Users\\Javi\\Documents\\GitHub\\GlobalGameJam2021\\GlobalGameJam\\Source\\GlobalGameJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GlobalGameJamEditor",
+			"Path": "C:\\Users\\Javi\\Documents\\GitHub\\GlobalGameJam2021\\GlobalGameJam\\Source\\GlobalGameJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
