@@ -29,9 +29,9 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseLookUpRate;
 
-	UPROPERTY(BlueprintCallable)
+	UFUNCTION(BlueprintCallable)
 	bool GetCanBoost() { return CanBoost; };
-	UPROPERTY(BlueprintCallable)
+	UFUNCTION(BlueprintCallable)
 	void SetCanBoost(bool NewValue) { CanBoost = NewValue; };
 
 private:
