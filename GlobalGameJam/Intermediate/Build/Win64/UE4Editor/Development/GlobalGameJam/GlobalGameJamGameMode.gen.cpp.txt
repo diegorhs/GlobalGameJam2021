@@ -1,9 +1,0 @@
-C:\Users\Javi\Documents\GitHub\GlobalGameJam2021\GlobalGameJam\Intermediate\Build\Win64\UE4Editor\Development\GlobalGameJam\Definitions.GlobalGameJam.h
-C:\Program Files (x86)\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files (x86)\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Javi\Documents\GitHub\GlobalGameJam2021\GlobalGameJam\Source\GlobalGameJam/GlobalGameJamGameMode.h
-C:\Program Files (x86)\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files (x86)\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files (x86)\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files (x86)\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Javi\Documents\GitHub\GlobalGameJam2021\GlobalGameJam\Intermediate\Build\Win64\UE4Editor\Inc\GlobalGameJam\GlobalGameJamGameMode.generated.h

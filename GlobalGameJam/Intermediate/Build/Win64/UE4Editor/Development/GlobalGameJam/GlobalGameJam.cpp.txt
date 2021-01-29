@@ -1,2 +1,0 @@
-C:\Users\Javi\Documents\GitHub\GlobalGameJam2021\GlobalGameJam\Intermediate\Build\Win64\UE4Editor\Development\GlobalGameJam\Definitions.GlobalGameJam.h
-C:\Users\Javi\Documents\GitHub\GlobalGameJam2021\GlobalGameJam\Source\GlobalGameJam\GlobalGameJam.h

@@ -1,3 +1,0 @@
-C:\Users\Javi\Documents\GitHub\GlobalGameJam2021\GlobalGameJam\Intermediate\Build\Win64\UE4Editor\Development\GlobalGameJam\Definitions.GlobalGameJam.h
-C:\Program Files (x86)\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files (x86)\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
