@@ -34,8 +34,6 @@ protected:
 	/** Resets HMD orientation in VR. */
 	void OnResetVR();
 
-	void DashForward();
-	void DashBack();
 	
 	/** Called for forwards/backward input */
 	//void MoveForward(float Value);

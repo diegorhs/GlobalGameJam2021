@@ -57,9 +57,6 @@ void AGlobalGameJamCharacter::SetupPlayerInputComponent(class UInputComponent* P
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
-	PlayerInputComponent->BindAction("DashForward", IE_Pressed, this, &AGlobalGameJamCharacter::DashForward);
-	PlayerInputComponent->BindAction("DashBack", IE_Released, this, &AGlobalGameJamCharacter::DashBack);
-
 	//PlayerInputComponent->BindAxis("MoveForward", this, &AGlobalGameJamCharacter::MoveForward);
 	//PlayerInputComponent->BindAxis("MoveRight", this, &AGlobalGameJamCharacter::MoveRight);
 
@@ -113,17 +110,6 @@ void AGlobalGameJamCharacter::LookUpAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
 	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
-}
-
-
-void AGlobalGameJamCharacter::DashForward()
-{
-
-}
-
-void AGlobalGameJamCharacter::DashBack()
-{
-
 }
 
 /*
