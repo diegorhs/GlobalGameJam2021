@@ -29,6 +29,14 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseLookUpRate;
 
+	UPROPERTY(BlueprintCallable)
+	bool GetCanBoost() { return CanBoost; };
+	UPROPERTY(BlueprintCallable)
+	void SetCanBoost(bool NewValue) { CanBoost = NewValue; };
+
+private:
+	bool CanBoost = false;
+
 protected:
 
 	/** Resets HMD orientation in VR. */
