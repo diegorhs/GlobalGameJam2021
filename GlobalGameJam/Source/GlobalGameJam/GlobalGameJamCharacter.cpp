@@ -57,23 +57,28 @@ void AGlobalGameJamCharacter::SetupPlayerInputComponent(class UInputComponent* P
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
-	PlayerInputComponent->BindAxis("MoveForward", this, &AGlobalGameJamCharacter::MoveForward);
-	PlayerInputComponent->BindAxis("MoveRight", this, &AGlobalGameJamCharacter::MoveRight);
+	PlayerInputComponent->BindAction("DashForward", IE_Pressed, this, &AGlobalGameJamCharacter::DashForward);
+	PlayerInputComponent->BindAction("DashBack", IE_Released, this, &AGlobalGameJamCharacter::DashBack);
+
+	//PlayerInputComponent->BindAxis("MoveForward", this, &AGlobalGameJamCharacter::MoveForward);
+	//PlayerInputComponent->BindAxis("MoveRight", this, &AGlobalGameJamCharacter::MoveRight);
 
 	// We have 2 versions of the rotation bindings to handle different kinds of devices differently
 	// "turn" handles devices that provide an absolute delta, such as a mouse.
 	// "turnrate" is for devices that we choose to treat as a rate of change, such as an analog joystick
+
+
 	PlayerInputComponent->BindAxis("Turn", this, &APawn::AddControllerYawInput);
 	PlayerInputComponent->BindAxis("TurnRate", this, &AGlobalGameJamCharacter::TurnAtRate);
 	PlayerInputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
 	PlayerInputComponent->BindAxis("LookUpRate", this, &AGlobalGameJamCharacter::LookUpAtRate);
 
 	// handle touch devices
-	PlayerInputComponent->BindTouch(IE_Pressed, this, &AGlobalGameJamCharacter::TouchStarted);
-	PlayerInputComponent->BindTouch(IE_Released, this, &AGlobalGameJamCharacter::TouchStopped);
+	//PlayerInputComponent->BindTouch(IE_Pressed, this, &AGlobalGameJamCharacter::TouchStarted);
+	//PlayerInputComponent->BindTouch(IE_Released, this, &AGlobalGameJamCharacter::TouchStopped);
 
 	// VR headset functionality
-	PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AGlobalGameJamCharacter::OnResetVR);
+	//PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AGlobalGameJamCharacter::OnResetVR);
 }
 
 
@@ -90,12 +95,12 @@ void AGlobalGameJamCharacter::OnResetVR()
 
 void AGlobalGameJamCharacter::TouchStarted(ETouchIndex::Type FingerIndex, FVector Location)
 {
-		Jump();
+	Jump();
 }
 
 void AGlobalGameJamCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Location)
 {
-		StopJumping();
+	StopJumping();
 }
 
 void AGlobalGameJamCharacter::TurnAtRate(float Rate)
@@ -110,6 +115,18 @@ void AGlobalGameJamCharacter::LookUpAtRate(float Rate)
 	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
 }
 
+
+void AGlobalGameJamCharacter::DashForward()
+{
+
+}
+
+void AGlobalGameJamCharacter::DashBack()
+{
+
+}
+
+/*
 void AGlobalGameJamCharacter::MoveForward(float Value)
 {
 	if ((Controller != nullptr) && (Value != 0.0f))
@@ -131,10 +148,12 @@ void AGlobalGameJamCharacter::MoveRight(float Value)
 		// find out which way is right
 		const FRotator Rotation = Controller->GetControlRotation();
 		const FRotator YawRotation(0, Rotation.Yaw, 0);
-	
-		// get right vector 
+
+		// get right vector
 		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
 		// add movement in that direction
 		AddMovementInput(Direction, Value);
 	}
 }
+
+*/

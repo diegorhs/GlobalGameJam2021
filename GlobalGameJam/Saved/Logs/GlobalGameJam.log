@@ -1221,3 +1221,474 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-09.27.31:309][626]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Level1E0A0700F40C39C10BE9023B268CDD1B6.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Levels/Level1.umap'
 [2021.01.29-09.27.31:326][626]AssetCheck: New page: Asset Save: Level1
 [2021.01.29-09.27.31:326][626]LogContentValidation: Display: Validating World /Game/GlobalGameJam/Levels/Level1.Level1
+[2021.01.29-09.41.41:551][969]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.29-09.41.41:880][978]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.29-09.41.42:773][ 15]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.29-09.41.43:306][ 39]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.29-09.42.06:365][226]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/GlobalGameJamCharacterA0898D8746FB2FE14F6DD4AB6A62E198.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Blueprints/GlobalGameJamCharacter.uasset'
+[2021.01.29-09.42.06:396][226]AssetCheck: New page: Asset Save: GlobalGameJamCharacter
+[2021.01.29-09.42.06:396][226]LogContentValidation: Display: Validating Blueprint /Game/GlobalGameJam/Blueprints/GlobalGameJamCharacter.GlobalGameJamCharacter
+[2021.01.29-09.42.06:739][247]BlueprintLog: New page: Compile GlobalGameJamCharacter
+[2021.01.29-09.42.06:967][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.01.29-09.42.07:687][276]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/GlobalGameJamCharacter7EDFD43646CB88282F48F6A254367654.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Blueprints/GlobalGameJamCharacter.uasset'
+[2021.01.29-09.42.07:713][276]AssetCheck: New page: Asset Save: GlobalGameJamCharacter
+[2021.01.29-09.42.07:713][276]LogContentValidation: Display: Validating Blueprint /Game/GlobalGameJam/Blueprints/GlobalGameJamCharacter.GlobalGameJamCharacter
+[2021.01.29-09.42.10:312][424]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.42.10:319][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.42.10:319][424]PIE: New page: PIE session: Level1 (29 ene. 2021 11:42:10)
+[2021.01.29-09.42.10:319][424]LogPlayLevel: Creating play world package: /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.42.10:336][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016943s)
+[2021.01.29-09.42.10:338][424]LogAIModule: Creating AISystem for world Level1
+[2021.01.29-09.42.10:338][424]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2021.01.29-09.42.10:338][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GlobalGameJam/Levels/Level1.Level1 to /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 (0.019143s)
+[2021.01.29-09.42.10:381][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.01.29-09.42.10:382][424]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.29-09.42.10:382][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.42.10:382][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.42.10:383][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.42.10:383][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.42.10:383][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.42.10:383][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.42.10:383][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.42.10:383][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.42.10:383][424]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.42.10:383][424]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.42.10:387][424]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.42.10:387][424]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.42.10:403][424]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2021.01.29-09.42.10:404][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.42.10:404][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.42.10:404][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.42.10:405][424]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.42.10:405][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-09.42.10:405][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-09.42.10:424][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-09.42.10:424][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-09.42.10:424][424]LogInit: FAudioDevice initialized.
+[2021.01.29-09.42.10:424][424]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2021.01.29-09.42.10:439][424]LogLoad: Game class is 'GlobalGameJamGameMode'
+[2021.01.29-09.42.10:541][424]LogWorld: Bringing World /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.01.29-10.42.10
+[2021.01.29-09.42.10:541][424]LogWorld: Bringing up level for play took: 0.000611
+[2021.01.29-09.42.10:541][424]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.29-09.42.10:544][424]PIE: Server logged in
+[2021.01.29-09.42.10:545][424]PIE: Play in editor total start time 0,226 seconds.
+[2021.01.29-09.42.14:262][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.42.14:262][642]LogWorld: BeginTearingDown for /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.42.14:262][642]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.42.14:263][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.42.14:270][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.42.14:276][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.42.14:307][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.29-09.42.14:307][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.42.14:308][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.42.14:330][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.42.14:335][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.01.29-09.42.14:358][643]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.29-09.42.29:195][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.42.29:204][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.42.29:204][ 42]PIE: New page: PIE session: Level1 (29 ene. 2021 11:42:29)
+[2021.01.29-09.42.29:204][ 42]LogPlayLevel: Creating play world package: /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.42.29:229][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024413s)
+[2021.01.29-09.42.29:233][ 42]LogAIModule: Creating AISystem for world Level1
+[2021.01.29-09.42.29:234][ 42]LogPlayLevel: PIE: World Init took: (0.004154s)
+[2021.01.29-09.42.29:234][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GlobalGameJam/Levels/Level1.Level1 to /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 (0.029163s)
+[2021.01.29-09.42.29:330][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.01.29-09.42.29:331][ 42]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.01.29-09.42.29:331][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.42.29:331][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.42.29:331][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.42.29:331][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.42.29:331][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.42.29:331][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.42.29:331][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.42.29:331][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.42.29:331][ 42]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.42.29:331][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.42.29:334][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.42.29:334][ 42]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.42.29:405][ 42]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2021.01.29-09.42.29:405][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.42.29:405][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.42.29:405][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.42.29:406][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.42.29:406][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-09.42.29:406][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-09.42.29:429][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-09.42.29:488][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-09.42.29:488][ 42]LogInit: FAudioDevice initialized.
+[2021.01.29-09.42.29:488][ 42]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2021.01.29-09.42.29:501][ 42]LogLoad: Game class is 'GlobalGameJamGameMode'
+[2021.01.29-09.42.29:502][ 42]LogWorld: Bringing World /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.01.29-10.42.29
+[2021.01.29-09.42.29:503][ 42]LogWorld: Bringing up level for play took: 0.000595
+[2021.01.29-09.42.29:503][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.29-09.42.29:505][ 42]PIE: Server logged in
+[2021.01.29-09.42.29:506][ 42]PIE: Play in editor total start time 0,303 seconds.
+[2021.01.29-09.43.05:952][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.43.05:952][214]LogWorld: BeginTearingDown for /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.43.05:952][214]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.43.05:952][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.43.05:961][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.43.05:966][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.43.06:002][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.43.06:002][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.43.06:003][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.43.06:034][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.01.29-09.43.06:058][215]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.29-09.43.21:650][101]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/GlobalGameJamCharacter0C0319A847E9129D2EE604AD9EB597B2.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Blueprints/GlobalGameJamCharacter.uasset'
+[2021.01.29-09.43.21:678][101]AssetCheck: New page: Asset Save: GlobalGameJamCharacter
+[2021.01.29-09.43.21:678][101]LogContentValidation: Display: Validating Blueprint /Game/GlobalGameJam/Blueprints/GlobalGameJamCharacter.GlobalGameJamCharacter
+[2021.01.29-09.43.42:640][328]BlueprintLog: New page: Compile GlobalGameJamCharacter
+[2021.01.29-09.43.42:743][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.01.29-09.43.43:856][375]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/GlobalGameJamCharacter4B4334AC43A35B68D73DE582B5B5BE46.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Blueprints/GlobalGameJamCharacter.uasset'
+[2021.01.29-09.43.43:872][375]AssetCheck: New page: Asset Save: GlobalGameJamCharacter
+[2021.01.29-09.43.43:872][375]LogContentValidation: Display: Validating Blueprint /Game/GlobalGameJam/Blueprints/GlobalGameJamCharacter.GlobalGameJamCharacter
+[2021.01.29-09.43.46:706][525]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.43.46:721][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.43.46:722][525]PIE: New page: PIE session: Level1 (29 ene. 2021 11:43:46)
+[2021.01.29-09.43.46:722][525]LogPlayLevel: Creating play world package: /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.43.46:741][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019092s)
+[2021.01.29-09.43.46:744][525]LogAIModule: Creating AISystem for world Level1
+[2021.01.29-09.43.46:745][525]LogPlayLevel: PIE: World Init took: (0.004218s)
+[2021.01.29-09.43.46:746][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GlobalGameJam/Levels/Level1.Level1 to /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 (0.023722s)
+[2021.01.29-09.43.46:800][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.01.29-09.43.46:801][525]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.01.29-09.43.46:801][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.43.46:801][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.43.46:801][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.43.46:801][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.43.46:801][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.43.46:801][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.43.46:801][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.43.46:801][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.43.46:802][525]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.43.46:802][525]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.43.46:804][525]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.43.46:804][525]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.43.46:817][525]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2021.01.29-09.43.46:818][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.43.46:818][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.43.46:818][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.43.46:818][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.43.46:818][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-09.43.46:818][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-09.43.46:835][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-09.43.46:835][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-09.43.46:835][525]LogInit: FAudioDevice initialized.
+[2021.01.29-09.43.46:835][525]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2021.01.29-09.43.46:850][525]LogLoad: Game class is 'GlobalGameJamGameMode'
+[2021.01.29-09.43.46:851][525]LogWorld: Bringing World /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.01.29-10.43.46
+[2021.01.29-09.43.46:851][525]LogWorld: Bringing up level for play took: 0.000728
+[2021.01.29-09.43.46:852][525]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.01.29-09.43.46:854][525]PIE: Server logged in
+[2021.01.29-09.43.46:855][525]PIE: Play in editor total start time 0,134 seconds.
+[2021.01.29-09.43.53:772][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.43.53:772][934]LogWorld: BeginTearingDown for /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.43.53:772][934]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.43.53:773][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.43.53:785][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.43.53:791][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.43.53:930][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.29-09.43.53:930][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.43.53:932][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.43.53:954][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.43.53:959][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.01.29-09.43.53:979][935]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.29-09.43.59:656][254]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/GlobalGameJamCharacter8D782325482AD781D15AFABF143C51F0.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Blueprints/GlobalGameJamCharacter.uasset'
+[2021.01.29-09.43.59:668][254]AssetCheck: New page: Asset Save: GlobalGameJamCharacter
+[2021.01.29-09.43.59:668][254]LogContentValidation: Display: Validating Blueprint /Game/GlobalGameJam/Blueprints/GlobalGameJamCharacter.GlobalGameJamCharacter
+[2021.01.29-09.44.00:516][303]BlueprintLog: New page: Compile GlobalGameJamCharacter
+[2021.01.29-09.44.00:625][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.01.29-09.44.03:024][429]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.44.03:029][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.44.03:030][429]PIE: New page: PIE session: Level1 (29 ene. 2021 11:44:03)
+[2021.01.29-09.44.03:030][429]LogPlayLevel: Creating play world package: /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.44.03:057][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027468s)
+[2021.01.29-09.44.03:060][429]LogAIModule: Creating AISystem for world Level1
+[2021.01.29-09.44.03:060][429]LogPlayLevel: PIE: World Init took: (0.002948s)
+[2021.01.29-09.44.03:060][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GlobalGameJam/Levels/Level1.Level1 to /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 (0.030627s)
+[2021.01.29-09.44.03:111][429]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.01.29-09.44.03:113][429]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.01.29-09.44.03:113][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.44.03:113][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.44.03:113][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.44.03:113][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.44.03:113][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.44.03:113][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.44.03:113][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.44.03:113][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.44.03:114][429]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.44.03:114][429]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.44.03:116][429]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.44.03:116][429]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.44.03:127][429]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2021.01.29-09.44.03:128][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.44.03:128][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.44.03:128][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.44.03:128][429]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.44.03:128][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-09.44.03:128][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-09.44.03:150][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-09.44.03:150][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-09.44.03:150][429]LogInit: FAudioDevice initialized.
+[2021.01.29-09.44.03:151][429]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2021.01.29-09.44.03:158][429]LogLoad: Game class is 'GlobalGameJamGameMode'
+[2021.01.29-09.44.03:159][429]LogWorld: Bringing World /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.01.29-10.44.03
+[2021.01.29-09.44.03:159][429]LogWorld: Bringing up level for play took: 0.000551
+[2021.01.29-09.44.03:159][429]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.01.29-09.44.03:162][429]PIE: Server logged in
+[2021.01.29-09.44.03:162][429]PIE: Play in editor total start time 0,134 seconds.
+[2021.01.29-09.44.26:314][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.44.26:314][799]LogWorld: BeginTearingDown for /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.44.26:314][799]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.44.26:315][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.44.26:325][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.44.26:330][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.44.26:376][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.29-09.44.26:376][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.44.26:378][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.44.26:401][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.44.26:405][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.01.29-09.44.26:430][800]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.29-09.44.30:576][ 30]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/GlobalGameJamCharacterDA0B9B0F42212E5B6CF8E1BEB46D95E4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Blueprints/GlobalGameJamCharacter.uasset'
+[2021.01.29-09.44.30:600][ 30]AssetCheck: New page: Asset Save: GlobalGameJamCharacter
+[2021.01.29-09.44.30:601][ 30]LogContentValidation: Display: Validating Blueprint /Game/GlobalGameJam/Blueprints/GlobalGameJamCharacter.GlobalGameJamCharacter
+[2021.01.29-09.44.32:673][148]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/GlobalGameJamCharacterCF0726644ADFD0E5DE9AD7BC2F74D4A4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Blueprints/GlobalGameJamCharacter.uasset'
+[2021.01.29-09.44.32:693][148]AssetCheck: New page: Asset Save: GlobalGameJamCharacter
+[2021.01.29-09.44.32:693][148]LogContentValidation: Display: Validating Blueprint /Game/GlobalGameJam/Blueprints/GlobalGameJamCharacter.GlobalGameJamCharacter
+[2021.01.29-09.44.33:503][195]BlueprintLog: New page: Compile GlobalGameJamCharacter
+[2021.01.29-09.44.33:614][195]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.01.29-09.44.36:867][380]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.44.36:873][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.44.36:873][380]PIE: New page: PIE session: Level1 (29 ene. 2021 11:44:36)
+[2021.01.29-09.44.36:873][380]LogPlayLevel: Creating play world package: /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.44.36:905][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031637s)
+[2021.01.29-09.44.36:907][380]LogAIModule: Creating AISystem for world Level1
+[2021.01.29-09.44.36:907][380]LogPlayLevel: PIE: World Init took: (0.002463s)
+[2021.01.29-09.44.36:907][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GlobalGameJam/Levels/Level1.Level1 to /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 (0.034342s)
+[2021.01.29-09.44.36:958][380]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.01.29-09.44.36:960][380]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.01.29-09.44.36:960][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.44.36:960][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.44.36:960][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.44.36:960][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.44.36:960][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.44.36:960][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.44.36:960][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.44.36:960][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.44.36:961][380]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.44.36:961][380]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.44.36:963][380]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.44.36:963][380]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.44.36:976][380]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2021.01.29-09.44.36:976][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.44.36:976][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.44.36:976][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.44.36:976][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.44.36:976][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-09.44.36:976][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-09.44.37:093][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-09.44.37:093][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-09.44.37:094][380]LogInit: FAudioDevice initialized.
+[2021.01.29-09.44.37:094][380]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2021.01.29-09.44.37:100][380]LogLoad: Game class is 'GlobalGameJamGameMode'
+[2021.01.29-09.44.37:101][380]LogWorld: Bringing World /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.01.29-10.44.37
+[2021.01.29-09.44.37:101][380]LogWorld: Bringing up level for play took: 0.000671
+[2021.01.29-09.44.37:102][380]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.01.29-09.44.37:104][380]PIE: Server logged in
+[2021.01.29-09.44.37:105][380]PIE: Play in editor total start time 0,233 seconds.
+[2021.01.29-09.44.58:562][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.44.58:562][656]LogWorld: BeginTearingDown for /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.44.58:562][656]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.44.58:562][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.44.58:573][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.44.58:582][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.44.58:687][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.29-09.44.58:687][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.44.58:688][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.44.58:706][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.44.58:713][656]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.01.29-09.44.58:736][657]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.01.29-09.50.51:587][  9]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.50.51:597][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.50.51:597][  9]PIE: New page: PIE session: Level1 (29 ene. 2021 11:50:51)
+[2021.01.29-09.50.51:598][  9]LogPlayLevel: Creating play world package: /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.50.51:618][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020198s)
+[2021.01.29-09.50.51:620][  9]LogAIModule: Creating AISystem for world Level1
+[2021.01.29-09.50.51:620][  9]LogPlayLevel: PIE: World Init took: (0.002728s)
+[2021.01.29-09.50.51:620][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GlobalGameJam/Levels/Level1.Level1 to /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 (0.023322s)
+[2021.01.29-09.50.51:761][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.01.29-09.50.51:763][  9]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.01.29-09.50.51:763][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.50.51:763][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.50.51:763][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.50.51:763][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.50.51:763][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.50.51:763][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.50.51:763][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.50.51:763][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.50.51:764][  9]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.50.51:764][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.50.51:767][  9]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.50.51:767][  9]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.50.51:782][  9]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2021.01.29-09.50.51:782][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.50.51:782][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.50.51:782][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.50.51:783][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.50.51:783][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-09.50.51:783][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-09.50.51:807][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-09.50.51:807][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-09.50.51:807][  9]LogInit: FAudioDevice initialized.
+[2021.01.29-09.50.51:807][  9]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2021.01.29-09.50.51:817][  9]LogLoad: Game class is 'GlobalGameJamGameMode'
+[2021.01.29-09.50.51:818][  9]LogWorld: Bringing World /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.01.29-10.50.51
+[2021.01.29-09.50.51:819][  9]LogWorld: Bringing up level for play took: 0.000589
+[2021.01.29-09.50.51:819][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.01.29-09.50.51:823][  9]PIE: Server logged in
+[2021.01.29-09.50.51:824][  9]PIE: Play in editor total start time 0,227 seconds.
+[2021.01.29-09.50.57:182][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.50.57:182][325]LogWorld: BeginTearingDown for /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.50.57:182][325]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.50.57:182][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.50.57:190][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.50.57:196][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.50.57:235][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.29-09.50.57:236][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.50.57:237][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.50.57:258][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.50.57:263][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.01.29-09.50.57:289][326]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.01.29-09.51.28:778][576]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.29-09.52.16:228][485]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.52.16:240][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.52.16:241][485]PIE: New page: PIE session: Level1 (29 ene. 2021 11:52:16)
+[2021.01.29-09.52.16:242][485]LogPlayLevel: Creating play world package: /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.52.16:285][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043162s)
+[2021.01.29-09.52.16:287][485]LogAIModule: Creating AISystem for world Level1
+[2021.01.29-09.52.16:288][485]LogPlayLevel: PIE: World Init took: (0.002090s)
+[2021.01.29-09.52.16:288][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GlobalGameJam/Levels/Level1.Level1 to /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 (0.045544s)
+[2021.01.29-09.52.16:460][485]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.01.29-09.52.16:463][485]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.01.29-09.52.16:463][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.52.16:463][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.52.16:463][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.52.16:463][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.52.16:463][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.52.16:463][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.52.16:463][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.52.16:463][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.52.16:463][485]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.52.16:463][485]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.52.16:469][485]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.52.16:469][485]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.52.16:482][485]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2021.01.29-09.52.16:482][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.52.16:482][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.52.16:482][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.52.16:483][485]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.52.16:483][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-09.52.16:483][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-09.52.16:506][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-09.52.16:506][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-09.52.16:506][485]LogInit: FAudioDevice initialized.
+[2021.01.29-09.52.16:506][485]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2021.01.29-09.52.16:512][485]LogLoad: Game class is 'GlobalGameJamGameMode'
+[2021.01.29-09.52.16:513][485]LogWorld: Bringing World /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.01.29-10.52.16
+[2021.01.29-09.52.16:514][485]LogWorld: Bringing up level for play took: 0.000533
+[2021.01.29-09.52.16:514][485]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.29-09.52.16:516][485]PIE: Server logged in
+[2021.01.29-09.52.16:517][485]PIE: Play in editor total start time 0,278 seconds.
+[2021.01.29-09.52.26:981][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.52.27:086][101]LogWorld: BeginTearingDown for /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.52.27:086][101]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.52.27:086][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.52.27:096][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.52.27:106][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.52.27:141][101]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.29-09.52.27:141][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.52.27:142][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.52.27:163][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.52.27:194][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.01.29-09.52.27:216][102]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.29-09.54.38:578][259]LogHotReload: New module detected: UE4Editor-GlobalGameJam-0002.dll
+[2021.01.29-09.54.39:614][263]LogHotReload: Starting Hot-Reload from IDE
+[2021.01.29-09.54.39:721][263]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'GlobalGameJam' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.01.29-09.54.39:727][263]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.01.29-09.54.40:055][263]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3605 classes and 864 folders.
+[2021.01.29-09.54.40:072][263]Display: HotReload took  0.5s.
+[2021.01.29-09.54.45:357][344]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.29-09.54.45:367][344]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.29-09.54.48:945][527]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.54.48:955][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.54.48:955][527]PIE: New page: PIE session: Level1 (29 ene. 2021 11:54:48)
+[2021.01.29-09.54.48:955][527]LogPlayLevel: Creating play world package: /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.54.48:975][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019245s)
+[2021.01.29-09.54.48:977][527]LogAIModule: Creating AISystem for world Level1
+[2021.01.29-09.54.48:978][527]LogPlayLevel: PIE: World Init took: (0.002749s)
+[2021.01.29-09.54.48:978][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GlobalGameJam/Levels/Level1.Level1 to /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 (0.022352s)
+[2021.01.29-09.54.49:211][527]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2021.01.29-09.54.49:219][527]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.01.29-09.54.49:219][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.54.49:219][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.54.49:219][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.54.49:219][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.54.49:219][527]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.54.49:219][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.54.49:219][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.54.49:220][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.54.49:220][527]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.54.49:220][527]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.54.49:223][527]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.54.49:223][527]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.54.49:238][527]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2021.01.29-09.54.49:239][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.54.49:239][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.54.49:239][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.54.49:239][527]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.54.49:239][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.29-09.54.49:239][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.29-09.54.49:256][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.29-09.54.49:256][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.29-09.54.49:256][527]LogInit: FAudioDevice initialized.
+[2021.01.29-09.54.49:256][527]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2021.01.29-09.54.49:263][527]LogLoad: Game class is 'GlobalGameJamGameMode'
+[2021.01.29-09.54.49:264][527]LogWorld: Bringing World /Game/GlobalGameJam/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.01.29-10.54.49
+[2021.01.29-09.54.49:264][527]LogWorld: Bringing up level for play took: 0.000526
+[2021.01.29-09.54.49:264][527]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.29-09.54.49:270][527]PIE: Server logged in
+[2021.01.29-09.54.49:271][527]PIE: Play in editor total start time 0,317 seconds.
+[2021.01.29-09.55.00:902][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.55.00:902][201]LogWorld: BeginTearingDown for /Game/GlobalGameJam/Levels/UEDPIE_0_Level1
+[2021.01.29-09.55.00:903][201]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.55.00:903][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.55.00:913][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.55.00:920][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.55.00:958][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.55.00:958][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.55.00:959][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.29-09.55.01:045][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2021.01.29-09.55.01:083][202]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.01.29-09.55.11:149][440]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.29-10.01.22:043][467]LogHttp: Warning: 000002BA24918100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE4C448D-4D3E-FE75-6BC9-689C602BF062%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=292b49c74850eaa91ab910b55a2576a1%7C26d0fdd2fd384592b8ae4e2082ddcce8%7C1ad6e6c9-fa43-46bf-a01d-efbb05d07965&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.01.29-10.01.22:043][467]LogHttp: Warning: 000002BA24918100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.01.29-10.01.22:043][467]LogHttp: Warning: 000002BA24918100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2b9856d7eb0 [can pipeline])
+[2021.01.29-10.01.22:043][467]LogHttp: Warning: 000002BA24918100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.01.29-10.01.22:043][467]LogHttp: Warning: 000002BA24918100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.225.184.177) port 443 (#0))
+[2021.01.29-10.01.22:059][467]LogHttp: Warning: 000002BA24918100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.01.29-10.01.22:059][467]LogHttp: Warning: 000002BA24918100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10053)
+[2021.01.29-10.01.22:059][467]LogHttp: Warning: 000002BA24918100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.01.29-10.01.22:059][467]LogHttp: Warning: 000002BA24918100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.01.29-10.01.22:059][467]LogHttp: Warning: 000002BA24918100: libcurl info message cache 7 (Closing connection 0)
+[2021.01.29-10.01.22:395][468]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBE4C448D-4D3E-FE75-6BC9-689C602BF062%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=292b49c74850eaa91ab910b55a2576a1%7C26d0fdd2fd384592b8ae4e2082ddcce8%7C1ad6e6c9-fa43-46bf-a01d-efbb05d07965&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.01.29-10.04.14:192][979]LogHotReload: New module detected: UE4Editor-GlobalGameJam-0003.dll
+[2021.01.29-10.04.15:797][985]LogHotReload: Starting Hot-Reload from IDE
+[2021.01.29-10.04.15:906][985]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'GlobalGameJam' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2021.01.29-10.04.15:919][985]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.01.29-10.04.16:249][985]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0269 seconds. Added 3605 classes and 864 folders.
+[2021.01.29-10.04.16:261][985]Display: HotReload took  0.5s.
+[2021.01.29-10.07.59:088][893]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.29-10.07.59:127][893]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.29-10.11.11:156][647]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.29-10.11.11:880][665]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.29-10.11.12:691][717]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
