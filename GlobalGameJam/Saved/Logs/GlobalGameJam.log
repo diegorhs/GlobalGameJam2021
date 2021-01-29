@@ -1692,3 +1692,797 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-10.11.11:156][647]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2021.01.29-10.11.11:880][665]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2021.01.29-10.11.12:691][717]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.29-10.12.14:501][111]AssetReimport: New page: Outstanding source content changes 12:12:14
+[2021.01.29-10.12.14:686][112]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas.fbx)
+[2021.01.29-10.12.14:963][112]LogFbx: Loading FBX Scene from C:/Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas.fbx
+[2021.01.29-10.12.15:159][112]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.29-10.12.18:580][112]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.29-10.12.20:212][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube...
+[2021.01.29-10.12.20:282][112]LogStaticMesh: Built static mesh [0.10s] /Game/Models/source/EscalerasEscherAtlas_Cube.EscalerasEscherAtlas_Cube
+[2021.01.29-10.12.20:499][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_003...
+[2021.01.29-10.12.20:515][112]LogStaticMesh: Built static mesh [0.07s] /Game/Models/source/EscalerasEscherAtlas_Cube_003.EscalerasEscherAtlas_Cube_003
+[2021.01.29-10.12.20:602][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_004...
+[2021.01.29-10.12.20:607][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_004.EscalerasEscherAtlas_Cube_004
+[2021.01.29-10.12.20:721][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_001...
+[2021.01.29-10.12.20:738][112]LogStaticMesh: Built static mesh [0.03s] /Game/Models/source/EscalerasEscherAtlas_Cube_001.EscalerasEscherAtlas_Cube_001
+[2021.01.29-10.12.20:771][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_002...
+[2021.01.29-10.12.20:785][112]LogStaticMesh: Built static mesh [0.03s] /Game/Models/source/EscalerasEscherAtlas_Cube_002.EscalerasEscherAtlas_Cube_002
+[2021.01.29-10.12.20:810][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_005...
+[2021.01.29-10.12.20:813][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_005.EscalerasEscherAtlas_Cube_005
+[2021.01.29-10.12.20:839][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_006...
+[2021.01.29-10.12.20:847][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_006.EscalerasEscherAtlas_Cube_006
+[2021.01.29-10.12.20:883][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_007...
+[2021.01.29-10.12.20:894][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_007.EscalerasEscherAtlas_Cube_007
+[2021.01.29-10.12.20:912][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_008...
+[2021.01.29-10.12.20:915][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_008.EscalerasEscherAtlas_Cube_008
+[2021.01.29-10.12.20:947][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_009...
+[2021.01.29-10.12.20:953][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_009.EscalerasEscherAtlas_Cube_009
+[2021.01.29-10.12.20:969][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_010...
+[2021.01.29-10.12.20:977][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_010.EscalerasEscherAtlas_Cube_010
+[2021.01.29-10.12.21:003][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_011...
+[2021.01.29-10.12.21:007][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_011.EscalerasEscherAtlas_Cube_011
+[2021.01.29-10.12.21:023][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_012...
+[2021.01.29-10.12.21:027][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_012.EscalerasEscherAtlas_Cube_012
+[2021.01.29-10.12.21:064][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_013...
+[2021.01.29-10.12.21:070][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_013.EscalerasEscherAtlas_Cube_013
+[2021.01.29-10.12.21:086][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_014...
+[2021.01.29-10.12.21:093][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_014.EscalerasEscherAtlas_Cube_014
+[2021.01.29-10.12.21:135][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_015...
+[2021.01.29-10.12.21:140][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_015.EscalerasEscherAtlas_Cube_015
+[2021.01.29-10.12.21:188][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_016...
+[2021.01.29-10.12.21:199][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_016.EscalerasEscherAtlas_Cube_016
+[2021.01.29-10.12.21:234][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_018...
+[2021.01.29-10.12.21:239][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_018.EscalerasEscherAtlas_Cube_018
+[2021.01.29-10.12.21:259][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_019...
+[2021.01.29-10.12.21:265][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_019.EscalerasEscherAtlas_Cube_019
+[2021.01.29-10.12.21:304][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_020...
+[2021.01.29-10.12.21:314][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_020.EscalerasEscherAtlas_Cube_020
+[2021.01.29-10.12.21:337][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_021...
+[2021.01.29-10.12.21:343][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_021.EscalerasEscherAtlas_Cube_021
+[2021.01.29-10.12.21:363][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_022...
+[2021.01.29-10.12.21:367][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_022.EscalerasEscherAtlas_Cube_022
+[2021.01.29-10.12.21:392][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_023...
+[2021.01.29-10.12.21:401][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_023.EscalerasEscherAtlas_Cube_023
+[2021.01.29-10.12.21:422][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_024...
+[2021.01.29-10.12.21:427][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_024.EscalerasEscherAtlas_Cube_024
+[2021.01.29-10.12.21:449][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_025...
+[2021.01.29-10.12.21:452][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_025.EscalerasEscherAtlas_Cube_025
+[2021.01.29-10.12.21:471][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_026...
+[2021.01.29-10.12.21:473][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_026.EscalerasEscherAtlas_Cube_026
+[2021.01.29-10.12.21:500][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_027...
+[2021.01.29-10.12.21:510][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_027.EscalerasEscherAtlas_Cube_027
+[2021.01.29-10.12.21:528][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_028...
+[2021.01.29-10.12.21:532][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_028.EscalerasEscherAtlas_Cube_028
+[2021.01.29-10.12.21:552][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_029...
+[2021.01.29-10.12.21:558][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_029.EscalerasEscherAtlas_Cube_029
+[2021.01.29-10.12.21:573][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_030...
+[2021.01.29-10.12.21:577][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_030.EscalerasEscherAtlas_Cube_030
+[2021.01.29-10.12.21:598][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_031...
+[2021.01.29-10.12.21:606][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_031.EscalerasEscherAtlas_Cube_031
+[2021.01.29-10.12.21:628][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_033...
+[2021.01.29-10.12.21:637][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_033.EscalerasEscherAtlas_Cube_033
+[2021.01.29-10.12.21:656][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_034...
+[2021.01.29-10.12.21:659][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_034.EscalerasEscherAtlas_Cube_034
+[2021.01.29-10.12.21:677][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_035...
+[2021.01.29-10.12.21:682][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_035.EscalerasEscherAtlas_Cube_035
+[2021.01.29-10.12.21:697][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_036...
+[2021.01.29-10.12.21:702][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_036.EscalerasEscherAtlas_Cube_036
+[2021.01.29-10.12.21:715][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_037...
+[2021.01.29-10.12.21:719][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_037.EscalerasEscherAtlas_Cube_037
+[2021.01.29-10.12.21:828][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_038...
+[2021.01.29-10.12.21:840][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_038.EscalerasEscherAtlas_Cube_038
+[2021.01.29-10.12.21:868][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_017...
+[2021.01.29-10.12.21:870][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_017.EscalerasEscherAtlas_Cube_017
+[2021.01.29-10.12.21:886][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_032...
+[2021.01.29-10.12.21:891][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_032.EscalerasEscherAtlas_Cube_032
+[2021.01.29-10.12.21:906][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_041...
+[2021.01.29-10.12.21:910][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_041.EscalerasEscherAtlas_Cube_041
+[2021.01.29-10.12.21:924][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_042...
+[2021.01.29-10.12.21:926][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_042.EscalerasEscherAtlas_Cube_042
+[2021.01.29-10.12.21:949][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_040...
+[2021.01.29-10.12.21:951][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_040.EscalerasEscherAtlas_Cube_040
+[2021.01.29-10.12.21:980][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_039...
+[2021.01.29-10.12.21:982][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_039.EscalerasEscherAtlas_Cube_039
+[2021.01.29-10.12.22:116][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_043...
+[2021.01.29-10.12.22:118][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_043.EscalerasEscherAtlas_Cube_043
+[2021.01.29-10.12.22:140][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_044...
+[2021.01.29-10.12.22:148][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_044.EscalerasEscherAtlas_Cube_044
+[2021.01.29-10.12.22:170][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_045...
+[2021.01.29-10.12.22:174][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_045.EscalerasEscherAtlas_Cube_045
+[2021.01.29-10.12.22:189][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_046...
+[2021.01.29-10.12.22:193][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_046.EscalerasEscherAtlas_Cube_046
+[2021.01.29-10.12.22:207][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_047...
+[2021.01.29-10.12.22:210][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_047.EscalerasEscherAtlas_Cube_047
+[2021.01.29-10.12.22:356][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_048...
+[2021.01.29-10.12.22:360][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_048.EscalerasEscherAtlas_Cube_048
+[2021.01.29-10.12.22:498][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_049...
+[2021.01.29-10.12.22:509][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_049.EscalerasEscherAtlas_Cube_049
+[2021.01.29-10.12.22:531][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_050...
+[2021.01.29-10.12.22:539][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_050.EscalerasEscherAtlas_Cube_050
+[2021.01.29-10.12.22:562][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_051...
+[2021.01.29-10.12.22:572][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_051.EscalerasEscherAtlas_Cube_051
+[2021.01.29-10.12.22:591][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_052...
+[2021.01.29-10.12.22:601][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_052.EscalerasEscherAtlas_Cube_052
+[2021.01.29-10.12.22:621][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_053...
+[2021.01.29-10.12.22:627][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_053.EscalerasEscherAtlas_Cube_053
+[2021.01.29-10.12.22:652][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_054...
+[2021.01.29-10.12.22:663][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_054.EscalerasEscherAtlas_Cube_054
+[2021.01.29-10.12.22:682][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_055...
+[2021.01.29-10.12.22:695][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_055.EscalerasEscherAtlas_Cube_055
+[2021.01.29-10.12.22:708][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_056...
+[2021.01.29-10.12.22:713][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_056.EscalerasEscherAtlas_Cube_056
+[2021.01.29-10.12.22:728][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_057...
+[2021.01.29-10.12.22:734][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_057.EscalerasEscherAtlas_Cube_057
+[2021.01.29-10.12.22:748][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_058...
+[2021.01.29-10.12.22:751][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_058.EscalerasEscherAtlas_Cube_058
+[2021.01.29-10.12.22:764][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_059...
+[2021.01.29-10.12.22:766][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_059.EscalerasEscherAtlas_Cube_059
+[2021.01.29-10.12.22:861][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_060...
+[2021.01.29-10.12.22:864][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_060.EscalerasEscherAtlas_Cube_060
+[2021.01.29-10.12.22:878][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_061...
+[2021.01.29-10.12.22:882][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_061.EscalerasEscherAtlas_Cube_061
+[2021.01.29-10.12.22:943][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_062...
+[2021.01.29-10.12.22:946][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_062.EscalerasEscherAtlas_Cube_062
+[2021.01.29-10.12.22:956][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_063...
+[2021.01.29-10.12.22:960][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_063.EscalerasEscherAtlas_Cube_063
+[2021.01.29-10.12.22:981][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_064...
+[2021.01.29-10.12.22:984][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_064.EscalerasEscherAtlas_Cube_064
+[2021.01.29-10.12.23:008][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_065...
+[2021.01.29-10.12.23:010][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_065.EscalerasEscherAtlas_Cube_065
+[2021.01.29-10.12.23:035][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_066...
+[2021.01.29-10.12.23:038][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_066.EscalerasEscherAtlas_Cube_066
+[2021.01.29-10.12.23:048][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_067...
+[2021.01.29-10.12.23:051][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_067.EscalerasEscherAtlas_Cube_067
+[2021.01.29-10.12.23:100][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Circle...
+[2021.01.29-10.12.23:113][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Circle.EscalerasEscherAtlas_Circle
+[2021.01.29-10.12.23:132][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Circle_001...
+[2021.01.29-10.12.23:134][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Circle_001.EscalerasEscherAtlas_Circle_001
+[2021.01.29-10.12.23:152][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Circle_002...
+[2021.01.29-10.12.23:153][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Circle_002.EscalerasEscherAtlas_Circle_002
+[2021.01.29-10.12.23:292][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_068...
+[2021.01.29-10.12.23:301][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_068.EscalerasEscherAtlas_Cube_068
+[2021.01.29-10.12.23:326][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_069...
+[2021.01.29-10.12.23:338][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_069.EscalerasEscherAtlas_Cube_069
+[2021.01.29-10.12.23:364][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_070...
+[2021.01.29-10.12.23:367][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_070.EscalerasEscherAtlas_Cube_070
+[2021.01.29-10.12.23:405][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_071...
+[2021.01.29-10.12.23:411][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_071.EscalerasEscherAtlas_Cube_071
+[2021.01.29-10.12.23:446][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Circle_003...
+[2021.01.29-10.12.23:449][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Circle_003.EscalerasEscherAtlas_Circle_003
+[2021.01.29-10.12.23:522][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_072...
+[2021.01.29-10.12.23:530][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_072.EscalerasEscherAtlas_Cube_072
+[2021.01.29-10.12.23:547][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_073...
+[2021.01.29-10.12.23:553][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_073.EscalerasEscherAtlas_Cube_073
+[2021.01.29-10.12.23:573][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_074...
+[2021.01.29-10.12.23:577][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_074.EscalerasEscherAtlas_Cube_074
+[2021.01.29-10.12.23:595][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_075...
+[2021.01.29-10.12.23:601][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_075.EscalerasEscherAtlas_Cube_075
+[2021.01.29-10.12.23:619][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_076...
+[2021.01.29-10.12.23:624][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_076.EscalerasEscherAtlas_Cube_076
+[2021.01.29-10.12.23:699][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_077...
+[2021.01.29-10.12.23:708][112]LogStaticMesh: Built static mesh [0.03s] /Game/Models/source/EscalerasEscherAtlas_Cube_077.EscalerasEscherAtlas_Cube_077
+[2021.01.29-10.12.23:727][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_078...
+[2021.01.29-10.12.23:737][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_078.EscalerasEscherAtlas_Cube_078
+[2021.01.29-10.12.23:756][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_079...
+[2021.01.29-10.12.23:762][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_079.EscalerasEscherAtlas_Cube_079
+[2021.01.29-10.12.23:777][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_080...
+[2021.01.29-10.12.23:782][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_080.EscalerasEscherAtlas_Cube_080
+[2021.01.29-10.12.23:797][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_081...
+[2021.01.29-10.12.23:800][112]LogStaticMesh: Built static mesh [0.00s] /Game/Models/source/EscalerasEscherAtlas_Cube_081.EscalerasEscherAtlas_Cube_081
+[2021.01.29-10.12.23:858][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cylinder_001...
+[2021.01.29-10.12.23:885][112]LogStaticMesh: Built static mesh [0.03s] /Game/Models/source/EscalerasEscherAtlas_Cylinder_001.EscalerasEscherAtlas_Cylinder_001
+[2021.01.29-10.12.23:953][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Circle_004...
+[2021.01.29-10.12.23:963][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Circle_004.EscalerasEscherAtlas_Circle_004
+[2021.01.29-10.12.24:068][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Circle_005...
+[2021.01.29-10.12.24:079][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Circle_005.EscalerasEscherAtlas_Circle_005
+[2021.01.29-10.12.24:139][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cylinder_000...
+[2021.01.29-10.12.24:158][112]LogStaticMesh: Built static mesh [0.02s] /Game/Models/source/EscalerasEscherAtlas_Cylinder_000.EscalerasEscherAtlas_Cylinder_000
+[2021.01.29-10.12.24:271][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Circle_007...
+[2021.01.29-10.12.24:283][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Circle_007.EscalerasEscherAtlas_Circle_007
+[2021.01.29-10.12.24:308][112]LogStaticMesh: Building static mesh EscalerasEscherAtlas_Cube_082...
+[2021.01.29-10.12.24:318][112]LogStaticMesh: Built static mesh [0.01s] /Game/Models/source/EscalerasEscherAtlas_Cube_082.EscalerasEscherAtlas_Cube_082
+[2021.01.29-10.12.25:320][113]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/textures/colorPalete.png)
+[2021.01.29-10.12.27:071][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/textures/colorPalete" FILE="../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/textures/colorPalete.uasset" SILENT=true
+[2021.01.29-10.12.27:115][114]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/colorPalete613461324A670F07135BCF98D9B1DCC5.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/textures/colorPalete.uasset'
+[2021.01.29-10.12.27:533][114]LogUObjectHash: Compacting FUObjectHashTables data took  12.40ms
+[2021.01.29-10.12.28:110][115]AssetCheck: New page: Asset Save: colorPalete
+[2021.01.29-10.12.28:110][115]LogContentValidation: Display: Validating Texture2D /Game/Models/textures/colorPalete.colorPalete
+[2021.01.29-10.12.29:238][156]LogSlate: Window 'Message Log' being destroyed
+[2021.01.29-10.12.29:276][156]LogSlate: Window 'Message Log' being destroyed
+[2021.01.29-10.12.30:882][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.01.29-10.12.30:885][183]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GlobalGameJam/Levels/Level1' took 0.111
+[2021.01.29-10.12.30:893][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube] ([1] browsable assets)...
+[2021.01.29-10.12.31:015][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube.EscalerasEscherAtlas_Cube]
+[2021.01.29-10.12.31:015][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube]
+[2021.01.29-10.12.31:015][183]AssetReimport: Importing new asset /Game/Models/source/EscalerasEscherAtlas.
+[2021.01.29-10.12.31:015][183]AssetReimport: Importing new asset /Game/Models/textures/colorPalete.
+[2021.01.29-10.12.31:027][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_Auto14C8A86BF4E1318F6499A19B2EF1ED7CA.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_Auto1.uasset'
+[2021.01.29-10.12.31:028][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_003] ([1] browsable assets)...
+[2021.01.29-10.12.31:047][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_003.EscalerasEscherAtlas_Cube_003]
+[2021.01.29-10.12.31:047][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_003]
+[2021.01.29-10.12.31:064][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_003_Au4790B5CA45EA25A821DE7A99AADCED87.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_003_Auto1.uasset'
+[2021.01.29-10.12.31:065][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_004] ([1] browsable assets)...
+[2021.01.29-10.12.31:084][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_004.EscalerasEscherAtlas_Cube_004]
+[2021.01.29-10.12.31:085][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_004]
+[2021.01.29-10.12.31:091][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_004_Au587AA8C94330127AAC6A17917512D034.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_004_Auto1.uasset'
+[2021.01.29-10.12.31:092][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_001] ([1] browsable assets)...
+[2021.01.29-10.12.31:119][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_001.EscalerasEscherAtlas_Cube_001]
+[2021.01.29-10.12.31:119][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_001]
+[2021.01.29-10.12.31:126][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_001_AuCB67B5D14436079C7B3937BEF475F1CF.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_001_Auto1.uasset'
+[2021.01.29-10.12.31:127][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_002] ([1] browsable assets)...
+[2021.01.29-10.12.31:157][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_002.EscalerasEscherAtlas_Cube_002]
+[2021.01.29-10.12.31:157][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_002]
+[2021.01.29-10.12.31:164][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_002_Au7BB904614296389B26544BA67BDC2A40.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_002_Auto1.uasset'
+[2021.01.29-10.12.31:164][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_005] ([1] browsable assets)...
+[2021.01.29-10.12.31:200][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_005.EscalerasEscherAtlas_Cube_005]
+[2021.01.29-10.12.31:200][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_005]
+[2021.01.29-10.12.31:208][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_005_Au5C6BCFF6451A2F0F7D44DD855A8EA4C8.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_005_Auto1.uasset'
+[2021.01.29-10.12.31:209][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_006] ([1] browsable assets)...
+[2021.01.29-10.12.31:241][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_006.EscalerasEscherAtlas_Cube_006]
+[2021.01.29-10.12.31:241][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_006]
+[2021.01.29-10.12.31:251][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_006_Au25F6D83E4538D5FD9C1F0188D08D9724.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_006_Auto1.uasset'
+[2021.01.29-10.12.31:252][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_007] ([1] browsable assets)...
+[2021.01.29-10.12.31:294][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_007.EscalerasEscherAtlas_Cube_007]
+[2021.01.29-10.12.31:294][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_007]
+[2021.01.29-10.12.31:302][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_007_Au661ED58E4BFA98792C34A0B79C4F1DE6.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_007_Auto1.uasset'
+[2021.01.29-10.12.31:303][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_008] ([1] browsable assets)...
+[2021.01.29-10.12.31:357][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_008.EscalerasEscherAtlas_Cube_008]
+[2021.01.29-10.12.31:357][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_008]
+[2021.01.29-10.12.31:371][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_008_Au48E1DE3749103E2E01903F937EE2DACF.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_008_Auto1.uasset'
+[2021.01.29-10.12.31:373][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_009] ([1] browsable assets)...
+[2021.01.29-10.12.31:398][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_009.EscalerasEscherAtlas_Cube_009]
+[2021.01.29-10.12.31:398][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_009]
+[2021.01.29-10.12.31:406][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_009_Au5D401A9143F2A6B263528A8C6777B758.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_009_Auto1.uasset'
+[2021.01.29-10.12.31:407][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_010] ([1] browsable assets)...
+[2021.01.29-10.12.31:463][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_010.EscalerasEscherAtlas_Cube_010]
+[2021.01.29-10.12.31:463][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_010]
+[2021.01.29-10.12.31:499][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_010_AuEF8CE08B4543813E96FD718F85B08BA9.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_010_Auto1.uasset'
+[2021.01.29-10.12.31:500][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_011] ([1] browsable assets)...
+[2021.01.29-10.12.31:534][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_011.EscalerasEscherAtlas_Cube_011]
+[2021.01.29-10.12.31:534][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_011]
+[2021.01.29-10.12.31:549][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_011_AuA15412EC4DFF0A6D935BDD8B2DE6CD40.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_011_Auto1.uasset'
+[2021.01.29-10.12.31:551][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_012] ([1] browsable assets)...
+[2021.01.29-10.12.31:591][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_012.EscalerasEscherAtlas_Cube_012]
+[2021.01.29-10.12.31:591][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_012]
+[2021.01.29-10.12.31:599][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_012_Au2F7165314F0F1B6622C4FD9DF7CF1EC9.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_012_Auto1.uasset'
+[2021.01.29-10.12.31:600][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_013] ([1] browsable assets)...
+[2021.01.29-10.12.31:677][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_013.EscalerasEscherAtlas_Cube_013]
+[2021.01.29-10.12.31:677][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_013]
+[2021.01.29-10.12.31:692][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_013_AuF23EEB3F4B87218C353C58A183C0D89C.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_013_Auto1.uasset'
+[2021.01.29-10.12.31:693][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_014] ([1] browsable assets)...
+[2021.01.29-10.12.31:716][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_014.EscalerasEscherAtlas_Cube_014]
+[2021.01.29-10.12.31:716][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_014]
+[2021.01.29-10.12.31:724][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_014_Au7BADE0694A8A0A9D98ED97A338E72025.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_014_Auto1.uasset'
+[2021.01.29-10.12.31:725][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_015] ([1] browsable assets)...
+[2021.01.29-10.12.31:761][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_015.EscalerasEscherAtlas_Cube_015]
+[2021.01.29-10.12.31:761][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_015]
+[2021.01.29-10.12.31:770][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_015_AuEAFE9B0F48BBD52E096EF88EE6A5E0BD.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_015_Auto1.uasset'
+[2021.01.29-10.12.31:771][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_016] ([1] browsable assets)...
+[2021.01.29-10.12.31:805][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_016.EscalerasEscherAtlas_Cube_016]
+[2021.01.29-10.12.31:805][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_016]
+[2021.01.29-10.12.31:813][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_016_Au17F75B5C4A8F01BE61B7B79650A01001.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_016_Auto1.uasset'
+[2021.01.29-10.12.31:814][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_018] ([1] browsable assets)...
+[2021.01.29-10.12.31:835][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_018.EscalerasEscherAtlas_Cube_018]
+[2021.01.29-10.12.31:835][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_018]
+[2021.01.29-10.12.31:844][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_018_Au6B4CBD19432DCC93B066B9A708056E5F.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_018_Auto1.uasset'
+[2021.01.29-10.12.31:844][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_019] ([1] browsable assets)...
+[2021.01.29-10.12.31:869][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_019.EscalerasEscherAtlas_Cube_019]
+[2021.01.29-10.12.31:869][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_019]
+[2021.01.29-10.12.31:878][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_019_Au62CFDB7441630671AAA564882A1F340B.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_019_Auto1.uasset'
+[2021.01.29-10.12.31:878][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_020] ([1] browsable assets)...
+[2021.01.29-10.12.31:899][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_020.EscalerasEscherAtlas_Cube_020]
+[2021.01.29-10.12.31:899][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_020]
+[2021.01.29-10.12.31:908][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_020_AuB9DF2987477172F683D1BFA3BDEF11E4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_020_Auto1.uasset'
+[2021.01.29-10.12.31:909][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_021] ([1] browsable assets)...
+[2021.01.29-10.12.31:934][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_021.EscalerasEscherAtlas_Cube_021]
+[2021.01.29-10.12.31:934][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_021]
+[2021.01.29-10.12.31:941][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_021_AuAA38C3DF420F2F0005957BB303EA0D1C.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_021_Auto1.uasset'
+[2021.01.29-10.12.31:942][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_022] ([1] browsable assets)...
+[2021.01.29-10.12.31:961][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_022.EscalerasEscherAtlas_Cube_022]
+[2021.01.29-10.12.31:961][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_022]
+[2021.01.29-10.12.31:967][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_022_AuFA80054544B2C68E26AA3587B8C65687.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_022_Auto1.uasset'
+[2021.01.29-10.12.31:968][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_023] ([1] browsable assets)...
+[2021.01.29-10.12.31:989][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_023.EscalerasEscherAtlas_Cube_023]
+[2021.01.29-10.12.31:989][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_023]
+[2021.01.29-10.12.31:995][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_023_Au286A6A33439D4D818630D4B2F9B51901.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_023_Auto1.uasset'
+[2021.01.29-10.12.31:996][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_024] ([1] browsable assets)...
+[2021.01.29-10.12.32:017][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_024.EscalerasEscherAtlas_Cube_024]
+[2021.01.29-10.12.32:017][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_024]
+[2021.01.29-10.12.32:025][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_024_Au3401E10546A5377C9C899BA65EE8649B.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_024_Auto1.uasset'
+[2021.01.29-10.12.32:026][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_025] ([1] browsable assets)...
+[2021.01.29-10.12.32:045][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_025.EscalerasEscherAtlas_Cube_025]
+[2021.01.29-10.12.32:045][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_025]
+[2021.01.29-10.12.32:052][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_025_AuC6870E27484CEAB26F72F798A2CCEA4E.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_025_Auto1.uasset'
+[2021.01.29-10.12.32:053][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_026] ([1] browsable assets)...
+[2021.01.29-10.12.32:075][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_026.EscalerasEscherAtlas_Cube_026]
+[2021.01.29-10.12.32:075][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_026]
+[2021.01.29-10.12.32:082][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_026_Au8BC84D894F073F8A95FCF1A877D99C16.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_026_Auto1.uasset'
+[2021.01.29-10.12.32:083][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_027] ([1] browsable assets)...
+[2021.01.29-10.12.32:104][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_027.EscalerasEscherAtlas_Cube_027]
+[2021.01.29-10.12.32:104][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_027]
+[2021.01.29-10.12.32:114][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_027_Au74F89CF546C18461D98EC28F4A206192.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_027_Auto1.uasset'
+[2021.01.29-10.12.32:115][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_028] ([1] browsable assets)...
+[2021.01.29-10.12.32:135][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_028.EscalerasEscherAtlas_Cube_028]
+[2021.01.29-10.12.32:135][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_028]
+[2021.01.29-10.12.32:141][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_028_Au5DA35B0145A9C1B19888239CDA67FA41.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_028_Auto1.uasset'
+[2021.01.29-10.12.32:142][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_029] ([1] browsable assets)...
+[2021.01.29-10.12.32:164][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_029.EscalerasEscherAtlas_Cube_029]
+[2021.01.29-10.12.32:164][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_029]
+[2021.01.29-10.12.32:171][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_029_AuD5518E13416D263C29B35A8AD1CE4295.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_029_Auto1.uasset'
+[2021.01.29-10.12.32:172][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_030] ([1] browsable assets)...
+[2021.01.29-10.12.32:192][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_030.EscalerasEscherAtlas_Cube_030]
+[2021.01.29-10.12.32:192][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_030]
+[2021.01.29-10.12.32:199][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_030_Au04CB7AF742F873BE303C1C9320471413.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_030_Auto1.uasset'
+[2021.01.29-10.12.32:200][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_031] ([1] browsable assets)...
+[2021.01.29-10.12.32:221][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_031.EscalerasEscherAtlas_Cube_031]
+[2021.01.29-10.12.32:221][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_031]
+[2021.01.29-10.12.32:228][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_031_AuBFB50F814D78A9113E0FE6A806038995.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_031_Auto1.uasset'
+[2021.01.29-10.12.32:229][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_033] ([1] browsable assets)...
+[2021.01.29-10.12.32:251][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_033.EscalerasEscherAtlas_Cube_033]
+[2021.01.29-10.12.32:251][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_033]
+[2021.01.29-10.12.32:257][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_033_Au09FA496A4FE0E264D11E758073E642CD.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_033_Auto1.uasset'
+[2021.01.29-10.12.32:258][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_034] ([1] browsable assets)...
+[2021.01.29-10.12.32:275][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_034.EscalerasEscherAtlas_Cube_034]
+[2021.01.29-10.12.32:275][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_034]
+[2021.01.29-10.12.32:281][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_034_AuDAFA061B48B1B821638BEA811B208382.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_034_Auto1.uasset'
+[2021.01.29-10.12.32:282][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_035] ([1] browsable assets)...
+[2021.01.29-10.12.32:320][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_035.EscalerasEscherAtlas_Cube_035]
+[2021.01.29-10.12.32:320][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_035]
+[2021.01.29-10.12.32:327][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_035_Au6FDFD47D41EC66DBE952B9B1666C1B89.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_035_Auto1.uasset'
+[2021.01.29-10.12.32:328][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_036] ([1] browsable assets)...
+[2021.01.29-10.12.32:348][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_036.EscalerasEscherAtlas_Cube_036]
+[2021.01.29-10.12.32:348][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_036]
+[2021.01.29-10.12.32:355][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_036_Au07052BA94EBFF3019DC7769EF1B62D1E.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_036_Auto1.uasset'
+[2021.01.29-10.12.32:356][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_037] ([1] browsable assets)...
+[2021.01.29-10.12.32:375][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_037.EscalerasEscherAtlas_Cube_037]
+[2021.01.29-10.12.32:375][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_037]
+[2021.01.29-10.12.32:381][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_037_Au10A56DA24936E8F9206C14BC52450F4C.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_037_Auto1.uasset'
+[2021.01.29-10.12.32:382][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_038] ([1] browsable assets)...
+[2021.01.29-10.12.32:471][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_038.EscalerasEscherAtlas_Cube_038]
+[2021.01.29-10.12.32:471][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_038]
+[2021.01.29-10.12.32:493][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_038_AuC8DF9C3C4755340ED907548E4B0F16AE.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_038_Auto1.uasset'
+[2021.01.29-10.12.32:495][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_017] ([1] browsable assets)...
+[2021.01.29-10.12.32:512][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_017.EscalerasEscherAtlas_Cube_017]
+[2021.01.29-10.12.32:512][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_017]
+[2021.01.29-10.12.32:519][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_017_Au7BBC1705431A259F10961989800A466F.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_017_Auto1.uasset'
+[2021.01.29-10.12.32:520][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_032] ([1] browsable assets)...
+[2021.01.29-10.12.32:537][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_032.EscalerasEscherAtlas_Cube_032]
+[2021.01.29-10.12.32:537][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_032]
+[2021.01.29-10.12.32:547][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_032_AuD5029AF643B7B1A53601D881E5864989.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_032_Auto1.uasset'
+[2021.01.29-10.12.32:548][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_041] ([1] browsable assets)...
+[2021.01.29-10.12.32:571][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_041.EscalerasEscherAtlas_Cube_041]
+[2021.01.29-10.12.32:571][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_041]
+[2021.01.29-10.12.32:578][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_041_AuF16BB5284450A8B5ACB039AA4F796DD2.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_041_Auto1.uasset'
+[2021.01.29-10.12.32:579][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_042] ([1] browsable assets)...
+[2021.01.29-10.12.32:597][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_042.EscalerasEscherAtlas_Cube_042]
+[2021.01.29-10.12.32:597][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_042]
+[2021.01.29-10.12.32:640][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_042_Au3BEC5C5F49A87D50F23E2EA6ED31D334.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_042_Auto1.uasset'
+[2021.01.29-10.12.32:641][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_040] ([1] browsable assets)...
+[2021.01.29-10.12.32:660][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_040.EscalerasEscherAtlas_Cube_040]
+[2021.01.29-10.12.32:660][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_040]
+[2021.01.29-10.12.32:667][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_040_AuE00F8AFA4F4985D7BD8D6EA44BC9756E.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_040_Auto1.uasset'
+[2021.01.29-10.12.32:668][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_039] ([1] browsable assets)...
+[2021.01.29-10.12.32:686][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_039.EscalerasEscherAtlas_Cube_039]
+[2021.01.29-10.12.32:686][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_039]
+[2021.01.29-10.12.32:693][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_039_Au5E2A87C84ACC01933A08C6A84E037BE8.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_039_Auto1.uasset'
+[2021.01.29-10.12.32:694][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_043] ([1] browsable assets)...
+[2021.01.29-10.12.32:712][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_043.EscalerasEscherAtlas_Cube_043]
+[2021.01.29-10.12.32:712][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_043]
+[2021.01.29-10.12.32:721][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_043_Au1773975E47FC808ACAFCC5B5386403CB.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_043_Auto1.uasset'
+[2021.01.29-10.12.32:722][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_044] ([1] browsable assets)...
+[2021.01.29-10.12.32:742][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_044.EscalerasEscherAtlas_Cube_044]
+[2021.01.29-10.12.32:742][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_044]
+[2021.01.29-10.12.32:751][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_044_Au52437CC34A66ED8B5AB465A2B336BBA2.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_044_Auto1.uasset'
+[2021.01.29-10.12.32:752][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_045] ([1] browsable assets)...
+[2021.01.29-10.12.32:776][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_045.EscalerasEscherAtlas_Cube_045]
+[2021.01.29-10.12.32:776][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_045]
+[2021.01.29-10.12.32:783][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_045_Au06CFC95545D6714500CC6EB7839D6BED.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_045_Auto1.uasset'
+[2021.01.29-10.12.32:785][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_046] ([1] browsable assets)...
+[2021.01.29-10.12.32:803][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_046.EscalerasEscherAtlas_Cube_046]
+[2021.01.29-10.12.32:803][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_046]
+[2021.01.29-10.12.32:809][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_046_Au2898CB194138C85F3C81F393BF7AEC07.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_046_Auto1.uasset'
+[2021.01.29-10.12.32:810][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_047] ([1] browsable assets)...
+[2021.01.29-10.12.32:831][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_047.EscalerasEscherAtlas_Cube_047]
+[2021.01.29-10.12.32:831][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_047]
+[2021.01.29-10.12.32:838][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_047_Au8E7692EA436DFAC6A8C5D586AE7FB0D1.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_047_Auto1.uasset'
+[2021.01.29-10.12.32:839][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_048] ([1] browsable assets)...
+[2021.01.29-10.12.32:865][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_048.EscalerasEscherAtlas_Cube_048]
+[2021.01.29-10.12.32:865][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_048]
+[2021.01.29-10.12.32:873][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_048_Au90CC233041CDCA2A8AD123BFC6035D0D.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_048_Auto1.uasset'
+[2021.01.29-10.12.32:874][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_049] ([1] browsable assets)...
+[2021.01.29-10.12.32:895][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_049.EscalerasEscherAtlas_Cube_049]
+[2021.01.29-10.12.32:895][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_049]
+[2021.01.29-10.12.32:903][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_049_AuE7D5CDB54DC34EEB770F15ACEE09CF51.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_049_Auto1.uasset'
+[2021.01.29-10.12.32:904][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_050] ([1] browsable assets)...
+[2021.01.29-10.12.32:926][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_050.EscalerasEscherAtlas_Cube_050]
+[2021.01.29-10.12.32:926][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_050]
+[2021.01.29-10.12.32:933][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_050_AuF148188B4D8BFAA65903468BB4CF566F.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_050_Auto1.uasset'
+[2021.01.29-10.12.32:934][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_051] ([1] browsable assets)...
+[2021.01.29-10.12.32:955][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_051.EscalerasEscherAtlas_Cube_051]
+[2021.01.29-10.12.32:955][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_051]
+[2021.01.29-10.12.32:964][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_051_Au643D52C64F116B6A2D572998A559E8D0.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_051_Auto1.uasset'
+[2021.01.29-10.12.32:965][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_052] ([1] browsable assets)...
+[2021.01.29-10.12.32:991][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_052.EscalerasEscherAtlas_Cube_052]
+[2021.01.29-10.12.32:991][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_052]
+[2021.01.29-10.12.32:998][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_052_Au29E6840E4F80036A890F04B37E10158E.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_052_Auto1.uasset'
+[2021.01.29-10.12.32:999][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_053] ([1] browsable assets)...
+[2021.01.29-10.12.33:022][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_053.EscalerasEscherAtlas_Cube_053]
+[2021.01.29-10.12.33:022][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_053]
+[2021.01.29-10.12.33:028][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_053_AuE15EBE03443E3BD9388099AD8C7F23C4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_053_Auto1.uasset'
+[2021.01.29-10.12.33:030][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_054] ([1] browsable assets)...
+[2021.01.29-10.12.33:051][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_054.EscalerasEscherAtlas_Cube_054]
+[2021.01.29-10.12.33:051][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_054]
+[2021.01.29-10.12.33:058][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_054_Au29B0254F41E67EAA5EB6DF8D0DD0C1EA.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_054_Auto1.uasset'
+[2021.01.29-10.12.33:059][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_055] ([1] browsable assets)...
+[2021.01.29-10.12.33:080][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_055.EscalerasEscherAtlas_Cube_055]
+[2021.01.29-10.12.33:080][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_055]
+[2021.01.29-10.12.33:086][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_055_AuC374EC0A4DB165275F960982439A7764.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_055_Auto1.uasset'
+[2021.01.29-10.12.33:087][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_056] ([1] browsable assets)...
+[2021.01.29-10.12.33:108][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_056.EscalerasEscherAtlas_Cube_056]
+[2021.01.29-10.12.33:108][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_056]
+[2021.01.29-10.12.33:115][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_056_Au9BFBC34D4CF04BFBD701E8AC878F452A.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_056_Auto1.uasset'
+[2021.01.29-10.12.33:116][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_057] ([1] browsable assets)...
+[2021.01.29-10.12.33:138][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_057.EscalerasEscherAtlas_Cube_057]
+[2021.01.29-10.12.33:138][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_057]
+[2021.01.29-10.12.33:145][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_057_Au8941DD2A4DCA0B021B9D14BCEB848C69.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_057_Auto1.uasset'
+[2021.01.29-10.12.33:146][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_058] ([1] browsable assets)...
+[2021.01.29-10.12.33:170][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_058.EscalerasEscherAtlas_Cube_058]
+[2021.01.29-10.12.33:170][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_058]
+[2021.01.29-10.12.33:178][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_058_Au1E66CCFE4B98A3CA5FBFE8BBC698CF8B.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_058_Auto1.uasset'
+[2021.01.29-10.12.33:179][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_059] ([1] browsable assets)...
+[2021.01.29-10.12.33:201][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_059.EscalerasEscherAtlas_Cube_059]
+[2021.01.29-10.12.33:201][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_059]
+[2021.01.29-10.12.33:208][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_059_Au4E0A49AF4FF59A7BABC607A16269628F.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_059_Auto1.uasset'
+[2021.01.29-10.12.33:209][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_060] ([1] browsable assets)...
+[2021.01.29-10.12.33:228][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_060.EscalerasEscherAtlas_Cube_060]
+[2021.01.29-10.12.33:228][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_060]
+[2021.01.29-10.12.33:235][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_060_Au6EF1298A45FD577E586E6DB41B6CA6A5.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_060_Auto1.uasset'
+[2021.01.29-10.12.33:236][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_061] ([1] browsable assets)...
+[2021.01.29-10.12.33:256][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_061.EscalerasEscherAtlas_Cube_061]
+[2021.01.29-10.12.33:256][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_061]
+[2021.01.29-10.12.33:263][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_061_AuBA5B572A41BE58C2FD3EC888DCDE09D1.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_061_Auto1.uasset'
+[2021.01.29-10.12.33:264][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_062] ([1] browsable assets)...
+[2021.01.29-10.12.33:283][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_062.EscalerasEscherAtlas_Cube_062]
+[2021.01.29-10.12.33:283][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_062]
+[2021.01.29-10.12.33:290][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_062_AuD0B4A0474C408EA40650F6AD896C0972.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_062_Auto1.uasset'
+[2021.01.29-10.12.33:291][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_063] ([1] browsable assets)...
+[2021.01.29-10.12.33:311][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_063.EscalerasEscherAtlas_Cube_063]
+[2021.01.29-10.12.33:311][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_063]
+[2021.01.29-10.12.33:317][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_063_Au518803A54D364CF0B0888C8B5E35C43F.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_063_Auto1.uasset'
+[2021.01.29-10.12.33:318][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_064] ([1] browsable assets)...
+[2021.01.29-10.12.33:340][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_064.EscalerasEscherAtlas_Cube_064]
+[2021.01.29-10.12.33:340][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_064]
+[2021.01.29-10.12.33:346][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_064_Au9AB830014D290B08A9FC62B0BA9840FB.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_064_Auto1.uasset'
+[2021.01.29-10.12.33:347][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_065] ([1] browsable assets)...
+[2021.01.29-10.12.33:366][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_065.EscalerasEscherAtlas_Cube_065]
+[2021.01.29-10.12.33:366][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_065]
+[2021.01.29-10.12.33:375][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_065_Au29AF029E40A3C2A80FC545BCC2399055.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_065_Auto1.uasset'
+[2021.01.29-10.12.33:376][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_066] ([1] browsable assets)...
+[2021.01.29-10.12.33:395][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_066.EscalerasEscherAtlas_Cube_066]
+[2021.01.29-10.12.33:395][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_066]
+[2021.01.29-10.12.33:403][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_066_Au7A934FBA4555D8EB645AA5A2CAE06DCA.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_066_Auto1.uasset'
+[2021.01.29-10.12.33:403][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_067] ([1] browsable assets)...
+[2021.01.29-10.12.33:423][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_067.EscalerasEscherAtlas_Cube_067]
+[2021.01.29-10.12.33:423][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_067]
+[2021.01.29-10.12.33:429][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_067_Au5250560B4AEDB5E5D54435A8AC4D606F.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_067_Auto1.uasset'
+[2021.01.29-10.12.33:430][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Circle] ([1] browsable assets)...
+[2021.01.29-10.12.33:452][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle.EscalerasEscherAtlas_Circle]
+[2021.01.29-10.12.33:452][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Circle]
+[2021.01.29-10.12.33:460][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_AutoD6472A264AF1D684991037B294F461D7.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Circle_Auto1.uasset'
+[2021.01.29-10.12.33:461][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Circle_001] ([1] browsable assets)...
+[2021.01.29-10.12.33:483][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_001.EscalerasEscherAtlas_Circle_001]
+[2021.01.29-10.12.33:483][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Circle_001]
+[2021.01.29-10.12.33:491][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_001_0CC6F5A6400A7DDC40C1879259F1D7FB.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Circle_001_Auto1.uasset'
+[2021.01.29-10.12.33:492][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Circle_002] ([1] browsable assets)...
+[2021.01.29-10.12.33:514][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_002.EscalerasEscherAtlas_Circle_002]
+[2021.01.29-10.12.33:514][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Circle_002]
+[2021.01.29-10.12.33:522][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_002_86F33ABB4019E57901570682B4417E9A.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Circle_002_Auto1.uasset'
+[2021.01.29-10.12.33:523][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_068] ([1] browsable assets)...
+[2021.01.29-10.12.33:610][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_068.EscalerasEscherAtlas_Cube_068]
+[2021.01.29-10.12.33:610][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_068]
+[2021.01.29-10.12.33:620][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_068_AuC888C3964E5BDD07BEAA5EBFF5C037F5.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_068_Auto1.uasset'
+[2021.01.29-10.12.33:621][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_069] ([1] browsable assets)...
+[2021.01.29-10.12.33:639][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_069.EscalerasEscherAtlas_Cube_069]
+[2021.01.29-10.12.33:639][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_069]
+[2021.01.29-10.12.33:648][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_069_AuBF7D123A4117751471EB5D96C256A6DA.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_069_Auto1.uasset'
+[2021.01.29-10.12.33:649][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_070] ([1] browsable assets)...
+[2021.01.29-10.12.33:668][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_070.EscalerasEscherAtlas_Cube_070]
+[2021.01.29-10.12.33:668][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_070]
+[2021.01.29-10.12.33:676][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_070_AuAB704A514952663FDA70F4965F56C999.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_070_Auto1.uasset'
+[2021.01.29-10.12.33:677][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_071] ([1] browsable assets)...
+[2021.01.29-10.12.33:717][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_071.EscalerasEscherAtlas_Cube_071]
+[2021.01.29-10.12.33:717][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_071]
+[2021.01.29-10.12.33:724][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_071_Au522038304E3069BA92E1D682E887A305.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_071_Auto1.uasset'
+[2021.01.29-10.12.33:725][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Circle_003] ([1] browsable assets)...
+[2021.01.29-10.12.33:746][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_003.EscalerasEscherAtlas_Circle_003]
+[2021.01.29-10.12.33:746][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Circle_003]
+[2021.01.29-10.12.33:754][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_003_05606F66450A49BBACDC41B595B435BA.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Circle_003_Auto1.uasset'
+[2021.01.29-10.12.33:755][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_072] ([1] browsable assets)...
+[2021.01.29-10.12.33:773][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_072.EscalerasEscherAtlas_Cube_072]
+[2021.01.29-10.12.33:773][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_072]
+[2021.01.29-10.12.33:779][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_072_Au1DE5671044758B7E20E442BD275D3B1D.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_072_Auto1.uasset'
+[2021.01.29-10.12.33:780][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_073] ([1] browsable assets)...
+[2021.01.29-10.12.33:800][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_073.EscalerasEscherAtlas_Cube_073]
+[2021.01.29-10.12.33:800][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_073]
+[2021.01.29-10.12.33:807][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_073_AuED4B29604556BA8B22C846A393D5E3C4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_073_Auto1.uasset'
+[2021.01.29-10.12.33:808][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_074] ([1] browsable assets)...
+[2021.01.29-10.12.33:828][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_074.EscalerasEscherAtlas_Cube_074]
+[2021.01.29-10.12.33:828][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_074]
+[2021.01.29-10.12.33:838][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_074_Au16281DC340F8A825642FCDBE079FFACE.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_074_Auto1.uasset'
+[2021.01.29-10.12.33:839][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_075] ([1] browsable assets)...
+[2021.01.29-10.12.33:861][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_075.EscalerasEscherAtlas_Cube_075]
+[2021.01.29-10.12.33:861][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_075]
+[2021.01.29-10.12.33:869][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_075_Au92B13D7E4004E3134EA0CBA393C6F568.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_075_Auto1.uasset'
+[2021.01.29-10.12.33:869][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_076] ([1] browsable assets)...
+[2021.01.29-10.12.33:890][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_076.EscalerasEscherAtlas_Cube_076]
+[2021.01.29-10.12.33:890][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_076]
+[2021.01.29-10.12.33:896][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_076_Au6BDD897D4376F209E0CEA2915B609423.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_076_Auto1.uasset'
+[2021.01.29-10.12.33:897][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_077] ([1] browsable assets)...
+[2021.01.29-10.12.33:919][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_077.EscalerasEscherAtlas_Cube_077]
+[2021.01.29-10.12.33:919][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_077]
+[2021.01.29-10.12.33:926][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_077_Au7A2B860649B45C8168CBB49FA7EBAB2C.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_077_Auto1.uasset'
+[2021.01.29-10.12.33:926][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_078] ([1] browsable assets)...
+[2021.01.29-10.12.33:947][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_078.EscalerasEscherAtlas_Cube_078]
+[2021.01.29-10.12.33:947][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_078]
+[2021.01.29-10.12.33:954][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_078_Au93E88AE245D9F676171106A2CEE36FF2.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_078_Auto1.uasset'
+[2021.01.29-10.12.33:955][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_079] ([1] browsable assets)...
+[2021.01.29-10.12.33:977][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_079.EscalerasEscherAtlas_Cube_079]
+[2021.01.29-10.12.33:977][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_079]
+[2021.01.29-10.12.33:985][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_079_AuA8B60C9143CE190BC49375937A535E77.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_079_Auto1.uasset'
+[2021.01.29-10.12.33:986][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_080] ([1] browsable assets)...
+[2021.01.29-10.12.34:010][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_080.EscalerasEscherAtlas_Cube_080]
+[2021.01.29-10.12.34:010][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_080]
+[2021.01.29-10.12.34:017][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_080_Au5D1B3AEB487FCBE4CB2AAB8978A2CD7D.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_080_Auto1.uasset'
+[2021.01.29-10.12.34:018][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_081] ([1] browsable assets)...
+[2021.01.29-10.12.34:038][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_081.EscalerasEscherAtlas_Cube_081]
+[2021.01.29-10.12.34:038][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_081]
+[2021.01.29-10.12.34:047][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_081_Au736C18904AF2B3362E2C7E8019B3A3E7.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_081_Auto1.uasset'
+[2021.01.29-10.12.34:047][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cylinder_001] ([1] browsable assets)...
+[2021.01.29-10.12.34:070][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cylinder_001.EscalerasEscherAtlas_Cylinder_001]
+[2021.01.29-10.12.34:070][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cylinder_001]
+[2021.01.29-10.12.34:079][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cylinder_003D2396524EF9908F65B6BFAAE56ABC79.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cylinder_001_Auto1.uasset'
+[2021.01.29-10.12.34:080][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Circle_004] ([1] browsable assets)...
+[2021.01.29-10.12.34:103][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_004.EscalerasEscherAtlas_Circle_004]
+[2021.01.29-10.12.34:103][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Circle_004]
+[2021.01.29-10.12.34:112][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_004_702AC34F451AC24EE5DEB191AE968963.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Circle_004_Auto1.uasset'
+[2021.01.29-10.12.34:113][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Circle_005] ([1] browsable assets)...
+[2021.01.29-10.12.34:136][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_005.EscalerasEscherAtlas_Circle_005]
+[2021.01.29-10.12.34:136][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Circle_005]
+[2021.01.29-10.12.34:145][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_005_6437B8E745BC6F096ACA13A6B60B6FF4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Circle_005_Auto1.uasset'
+[2021.01.29-10.12.34:146][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cylinder_000] ([1] browsable assets)...
+[2021.01.29-10.12.34:168][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cylinder_000.EscalerasEscherAtlas_Cylinder_000]
+[2021.01.29-10.12.34:168][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cylinder_000]
+[2021.01.29-10.12.34:176][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cylinder_0003691CD4427C37BF5BF687879F2EAB58.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cylinder_000_Auto1.uasset'
+[2021.01.29-10.12.34:177][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Circle_007] ([1] browsable assets)...
+[2021.01.29-10.12.34:200][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_007.EscalerasEscherAtlas_Circle_007]
+[2021.01.29-10.12.34:200][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Circle_007]
+[2021.01.29-10.12.34:210][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_007_8A40D2234D55F681775E90BC42BD7B89.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Circle_007_Auto1.uasset'
+[2021.01.29-10.12.34:211][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/source/EscalerasEscherAtlas_Cube_082] ([1] browsable assets)...
+[2021.01.29-10.12.34:228][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_082.EscalerasEscherAtlas_Cube_082]
+[2021.01.29-10.12.34:228][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/source/EscalerasEscherAtlas_Cube_082]
+[2021.01.29-10.12.34:234][183]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_082_Au6F7EB3934445743E4AC44486FE868DAD.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Autosaves/Game/Models/source/EscalerasEscherAtlas_Cube_082_Auto1.uasset'
+[2021.01.29-10.12.34:235][183]LogFileHelpers: Auto-saving content packages took 3.350
+[2021.01.29-10.14.15:442][  3]LogUObjectHash: Compacting FUObjectHashTables data took  11.76ms
+[2021.01.29-10.14.15:619][  3]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/LevelJaviC033C6BA4BA083E0C0D8F99F2F1135AC.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Levels/LevelJavi.umap'
+[2021.01.29-10.14.15:620][  3]LogFileHelpers: Saving map 'LevelJavi' took 0.420
+[2021.01.29-10.14.15:695][  3]AssetCheck: New page: Asset Save: LevelJavi
+[2021.01.29-10.14.15:695][  3]LogContentValidation: Display: Validating World /Game/GlobalGameJam/Levels/LevelJavi.LevelJavi
+[2021.01.29-10.14.33:413][643]Cmd: EDIT COPY
+[2021.01.29-10.14.36:691][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.29-10.14.43:496][887]LogSlate: Window 'Save Content' being destroyed
+[2021.01.29-10.14.43:571][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle71FD06F24EF1591F145505BF4C211D33.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Circle.uasset'
+[2021.01.29-10.14.43:577][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_001006ABC8D476867AEDDBB749D1D28607C.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Circle_001.uasset'
+[2021.01.29-10.14.43:581][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_002285E0144444D8C0B47997F84FF11A340.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Circle_002.uasset'
+[2021.01.29-10.14.43:587][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_0035F06AE674559A90638D6FB84F7428213.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Circle_003.uasset'
+[2021.01.29-10.14.43:593][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_00486F24477490A536F33856D8D18382E3B.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Circle_004.uasset'
+[2021.01.29-10.14.43:600][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_00574C5E22A437D6BABB6C3F0AC15E8ACD2.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Circle_005.uasset'
+[2021.01.29-10.14.43:607][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Circle_007ADC5B3614631453D83612EA0A2239321.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Circle_007.uasset'
+[2021.01.29-10.14.43:611][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube5EF065E94593292E9C3B5DAD62E0A3E9.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube.uasset'
+[2021.01.29-10.14.43:615][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_00123214D444BFEAD77996C7D9EBBF8CA13.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_001.uasset'
+[2021.01.29-10.14.43:621][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_00215D2BF264265C680083445B5DF88CFF4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_002.uasset'
+[2021.01.29-10.14.43:625][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0038663901E4500A07A8F86DBA204C7E15B.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_003.uasset'
+[2021.01.29-10.14.43:630][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0046A782DA946B82EC45A250F8E1714322E.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_004.uasset'
+[2021.01.29-10.14.43:633][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0051A193C58423BF44B9BB90CBB608D52D2.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_005.uasset'
+[2021.01.29-10.14.43:638][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_006B5E37C7741AA98B28A4EB599408B9E31.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_006.uasset'
+[2021.01.29-10.14.43:642][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_00718E3D2454D80A34678B4A79A8506B46B.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_007.uasset'
+[2021.01.29-10.14.43:645][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0083A15B3464C02C0F3719B42828E2B8655.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_008.uasset'
+[2021.01.29-10.14.43:649][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_00908E09B1944BA21558399279EF658BA77.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_009.uasset'
+[2021.01.29-10.14.43:653][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0101338C9474F4CAF5F0C86A9AEF64D82BE.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_010.uasset'
+[2021.01.29-10.14.43:657][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0113E7A642943299F2FF2A16DB87BC0F501.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_011.uasset'
+[2021.01.29-10.14.43:661][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0123EEB360E4BFC58C904FBFE871F83BC17.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_012.uasset'
+[2021.01.29-10.14.43:664][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_01347FBFB314CFEBFEDE3A81AA6C989BC0D.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_013.uasset'
+[2021.01.29-10.14.43:667][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_014BBD39C614902E6BA061EA784581C59E0.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_014.uasset'
+[2021.01.29-10.14.43:672][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_015F19BEFA24036B9F6E97A2EBCE28BA536.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_015.uasset'
+[2021.01.29-10.14.43:675][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_016B8D3108F41D3B0CDE6CA1FAAA010B119.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_016.uasset'
+[2021.01.29-10.14.43:680][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0176AB5CBF04974BB8019FF9AA9856BC619.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_017.uasset'
+[2021.01.29-10.14.43:683][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0180AE0AC06485DDD229D27608A51B30E2F.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_018.uasset'
+[2021.01.29-10.14.43:688][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0191BD62F1A4162C8BC8F2E02951A28D8CB.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_019.uasset'
+[2021.01.29-10.14.43:692][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0205B78944C40398D280E375D80A7171686.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_020.uasset'
+[2021.01.29-10.14.43:695][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0218D84AE984392C4DA6BA389B35ECE87B5.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_021.uasset'
+[2021.01.29-10.14.43:698][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_022B6BD552A4A49F7464D2E2492C8BB4F4E.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_022.uasset'
+[2021.01.29-10.14.43:702][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_023B35645C041AFD790C76CB7952EA48E1A.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_023.uasset'
+[2021.01.29-10.14.43:706][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_024DB11824F4394384E3998EEB1D0D2037B.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_024.uasset'
+[2021.01.29-10.14.43:709][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_025DD46460C4F8AD57EB6C5CDAB91C819B4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_025.uasset'
+[2021.01.29-10.14.43:713][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_026A0C4E5E1488FBB77ECE4E7863D6D62C6.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_026.uasset'
+[2021.01.29-10.14.43:716][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0279E0180AD4F149EC4C7BD98ACACDFB45C.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_027.uasset'
+[2021.01.29-10.14.43:720][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_02832A962994021421EFAD9C99508456954.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_028.uasset'
+[2021.01.29-10.14.43:723][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_029DC7EE1E24DFC01BE1FB8398A25860F9A.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_029.uasset'
+[2021.01.29-10.14.43:727][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_03054F9005A4D1CCB150F7412B24E445179.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_030.uasset'
+[2021.01.29-10.14.43:730][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0315B3A113F4F4024BDDBA6D0A8DE73B4F1.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_031.uasset'
+[2021.01.29-10.14.43:733][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0320F5CE775407B1AE67915CCB401AABD94.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_032.uasset'
+[2021.01.29-10.14.43:737][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_033230025374617E16844F973AF2A040B09.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_033.uasset'
+[2021.01.29-10.14.43:740][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_034F3CE6DAD42E626A6C11151AB56D192F0.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_034.uasset'
+[2021.01.29-10.14.43:743][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_035DD09AAA0412970C7C301CFBF8A9B39BC.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_035.uasset'
+[2021.01.29-10.14.43:747][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_036263A3173446401E1579427AF49CBEA39.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_036.uasset'
+[2021.01.29-10.14.43:750][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_03780064FFC48BC94F7788D26BCE1D3E3E1.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_037.uasset'
+[2021.01.29-10.14.43:753][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0387A452B444E0AA064D410039C73D40B98.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_038.uasset'
+[2021.01.29-10.14.43:757][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_039385A00CA4D0B0413982CF0BD92C762DB.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_039.uasset'
+[2021.01.29-10.14.43:761][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0403CA65A764E58C282AADDD2A1E402A254.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_040.uasset'
+[2021.01.29-10.14.43:764][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0418441D02D46776E97CB383BBD172E09A7.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_041.uasset'
+[2021.01.29-10.14.43:768][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_04282B7EC2948B58CBE36110BABBA568F39.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_042.uasset'
+[2021.01.29-10.14.43:772][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0436B318D4547FD6051FE9ECE982D42F3ED.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_043.uasset'
+[2021.01.29-10.14.43:776][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_044A285F1C042E5794D18BD928F60BDBFC6.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_044.uasset'
+[2021.01.29-10.14.43:779][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0457BE821A648BBE2BF1EBECABA7B457497.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_045.uasset'
+[2021.01.29-10.14.43:782][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_04698136AF841335C95E92B47A06F98EEC5.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_046.uasset'
+[2021.01.29-10.14.43:785][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_04772E519C84D2DAAF643A4E9B8C0D18F0E.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_047.uasset'
+[2021.01.29-10.14.43:789][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_048602D39F546D6B9C5817CF38F1D1133C1.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_048.uasset'
+[2021.01.29-10.14.43:793][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0499DE5706A4B5BAFE7A270838ACA350309.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_049.uasset'
+[2021.01.29-10.14.43:795][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0500A4DDAC14488DAC9A5F13CBC7957373D.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_050.uasset'
+[2021.01.29-10.14.43:798][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_05118A5C6364A52C68934CE3F885E1367C2.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_051.uasset'
+[2021.01.29-10.14.43:802][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0525D5BBA294A69925549941394C9F6692F.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_052.uasset'
+[2021.01.29-10.14.43:805][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_053E0E1321C46F2F28847ECB08292C95C46.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_053.uasset'
+[2021.01.29-10.14.43:808][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_054B7FEC7A442B0737773D8FA944E745A64.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_054.uasset'
+[2021.01.29-10.14.43:812][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0556099969A40D69A30DCC688977DC25CF6.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_055.uasset'
+[2021.01.29-10.14.43:815][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_056D9E0FB8F4453103A2B6A379776C6FB00.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_056.uasset'
+[2021.01.29-10.14.43:818][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0572E24FAB84F2D2CE88E99EAB525309B7D.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_057.uasset'
+[2021.01.29-10.14.43:821][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_058F7DC8A2B477C5981EFBB8FAE5BFA3284.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_058.uasset'
+[2021.01.29-10.14.43:824][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_059C07E451A417F9B4A8F18ED9C4B46D692.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_059.uasset'
+[2021.01.29-10.14.43:827][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_060536F882C4881B3D8DBAC758F6268BFF4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_060.uasset'
+[2021.01.29-10.14.43:831][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0610518614D4C41D63A6DC70684861CEDCF.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_061.uasset'
+[2021.01.29-10.14.43:834][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_062ACF2450A426807835241FBA0292D4148.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_062.uasset'
+[2021.01.29-10.14.43:837][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0635B692A88418E999D85BC35A68EF38B72.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_063.uasset'
+[2021.01.29-10.14.43:840][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0640D26622546497770211DD581CA208A55.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_064.uasset'
+[2021.01.29-10.14.43:843][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_06541DEF33D431A607E9849E29B52C8629D.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_065.uasset'
+[2021.01.29-10.14.43:846][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_06659E507074C911C86E037DC813E0D89F4.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_066.uasset'
+[2021.01.29-10.14.43:849][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_067A92155A64521564A127D6091D1175AF1.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_067.uasset'
+[2021.01.29-10.14.43:854][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_068B37F0F034686E830B77FE5B2A91BFE38.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_068.uasset'
+[2021.01.29-10.14.43:858][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0694CE1B1C943A710AB265A2FBD483C07DE.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_069.uasset'
+[2021.01.29-10.14.43:862][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_07072AD499A43542F04C34631B33B2EB405.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_070.uasset'
+[2021.01.29-10.14.43:867][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0719E5C52B248F3F952B0D6548EC7729D39.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_071.uasset'
+[2021.01.29-10.14.43:871][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_07259582DD04C3B7950D10B8E98182831AC.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_072.uasset'
+[2021.01.29-10.14.43:874][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_073C98C7D4D4790ECCEDC74698D549ACF2E.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_073.uasset'
+[2021.01.29-10.14.43:877][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_074D5A33FCF40C7F6CB618C5FB0EF077C2A.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_074.uasset'
+[2021.01.29-10.14.43:880][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_075B83CD01047B64B47A69EF2AFCA198B36.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_075.uasset'
+[2021.01.29-10.14.43:883][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_076B11D44FC495D33F82CF6CF9E5467A045.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_076.uasset'
+[2021.01.29-10.14.43:889][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_077553F093E446D5AF44CF55F8FF8BC2A6C.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_077.uasset'
+[2021.01.29-10.14.43:892][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_078F90957924E5E07661D6B3DA076F7AE06.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_078.uasset'
+[2021.01.29-10.14.43:896][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_07924C6634B4E39682BC4E9C8915302D377.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_079.uasset'
+[2021.01.29-10.14.43:899][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_0807B2385F147B2D28E71E2BDAE46E06C83.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_080.uasset'
+[2021.01.29-10.14.43:903][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_081AC428C2D4598D998E3F7A5BB2C9E71B3.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_081.uasset'
+[2021.01.29-10.14.43:905][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cube_082FC6AE5ED4AE2C2EB6DDED7A545B84945.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cube_082.uasset'
+[2021.01.29-10.14.43:911][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cylinder_001B8672F245C52A964E08909E414A6DBD.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cylinder_000.uasset'
+[2021.01.29-10.14.43:915][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/EscalerasEscherAtlas_Cylinder_00003C1DE54355E10DDB9FB9A190EF38B7.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/EscalerasEscherAtlas_Cylinder_001.uasset'
+[2021.01.29-10.14.43:939][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/source/Material_001" FILE="../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/Material_001.uasset" SILENT=true
+[2021.01.29-10.14.43:953][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Material_0014A84FBA8439FA1FC44458CBCF98E12C1.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/Material_001.uasset'
+[2021.01.29-10.14.43:976][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/source/Material_003" FILE="../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/Material_003.uasset" SILENT=true
+[2021.01.29-10.14.43:982][887]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/Material_0030652E3CE457ECD91DA66B3895A66208A.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/Models/source/Material_003.uasset'
+[2021.01.29-10.14.44:012][887]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GlobalGameJam/Levels/LevelJavi.LevelJavi
+[2021.01.29-10.14.44:013][887]Cmd: MAP LOAD FILE="../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Levels/LevelJavi.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-10.14.44:032][887]LightingResults: New page: Lighting Build
+[2021.01.29-10.14.44:060][887]LoadErrors: New page: Loading map: LevelJavi.umap
+[2021.01.29-10.14.44:118][887]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-10.14.44:119][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-10.14.44:274][887]MapCheck: New page: Map Check
+[2021.01.29-10.14.44:274][887]LightingResults: New page: Lighting Build
+[2021.01.29-10.14.44:357][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.29-10.14.44:442][887]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.01.29-10.14.44:532][887]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelJavi'.
+[2021.01.29-10.14.44:542][887]LogEditorServer: Finished looking for orphan Actors (0.006 secs)
+[2021.01.29-10.14.44:542][887]LogAIModule: Creating AISystem for world LevelJavi
+[2021.01.29-10.14.44:636][887]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.01.29-10.14.44:669][887]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-10.14.44:670][887]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,757ms to complete.
+[2021.01.29-10.14.44:670][887]LogFileHelpers: Loading map 'LevelJavi' took 0.657
+[2021.01.29-10.14.45:209][887]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_074.EscalerasEscherAtlas_Cube_074
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_073.EscalerasEscherAtlas_Cube_073
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_072.EscalerasEscherAtlas_Cube_072
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_003.EscalerasEscherAtlas_Circle_003
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_071.EscalerasEscherAtlas_Cube_071
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_070.EscalerasEscherAtlas_Cube_070
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_069.EscalerasEscherAtlas_Cube_069
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating Material /Game/Models/source/Material_003.Material_003
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_068.EscalerasEscherAtlas_Cube_068
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_002.EscalerasEscherAtlas_Circle_002
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_001.EscalerasEscherAtlas_Circle_001
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle.EscalerasEscherAtlas_Circle
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_067.EscalerasEscherAtlas_Cube_067
+[2021.01.29-10.14.45:210][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_066.EscalerasEscherAtlas_Cube_066
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_065.EscalerasEscherAtlas_Cube_065
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_064.EscalerasEscherAtlas_Cube_064
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_063.EscalerasEscherAtlas_Cube_063
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_062.EscalerasEscherAtlas_Cube_062
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_061.EscalerasEscherAtlas_Cube_061
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_060.EscalerasEscherAtlas_Cube_060
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_059.EscalerasEscherAtlas_Cube_059
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_058.EscalerasEscherAtlas_Cube_058
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_057.EscalerasEscherAtlas_Cube_057
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_056.EscalerasEscherAtlas_Cube_056
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_055.EscalerasEscherAtlas_Cube_055
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_054.EscalerasEscherAtlas_Cube_054
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_053.EscalerasEscherAtlas_Cube_053
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_052.EscalerasEscherAtlas_Cube_052
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_051.EscalerasEscherAtlas_Cube_051
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_050.EscalerasEscherAtlas_Cube_050
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_049.EscalerasEscherAtlas_Cube_049
+[2021.01.29-10.14.45:211][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_048.EscalerasEscherAtlas_Cube_048
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_047.EscalerasEscherAtlas_Cube_047
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_046.EscalerasEscherAtlas_Cube_046
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_045.EscalerasEscherAtlas_Cube_045
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_044.EscalerasEscherAtlas_Cube_044
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_043.EscalerasEscherAtlas_Cube_043
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_039.EscalerasEscherAtlas_Cube_039
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_040.EscalerasEscherAtlas_Cube_040
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_042.EscalerasEscherAtlas_Cube_042
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_041.EscalerasEscherAtlas_Cube_041
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_032.EscalerasEscherAtlas_Cube_032
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_017.EscalerasEscherAtlas_Cube_017
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_038.EscalerasEscherAtlas_Cube_038
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_037.EscalerasEscherAtlas_Cube_037
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_036.EscalerasEscherAtlas_Cube_036
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_035.EscalerasEscherAtlas_Cube_035
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_034.EscalerasEscherAtlas_Cube_034
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_033.EscalerasEscherAtlas_Cube_033
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_031.EscalerasEscherAtlas_Cube_031
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_030.EscalerasEscherAtlas_Cube_030
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_029.EscalerasEscherAtlas_Cube_029
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_028.EscalerasEscherAtlas_Cube_028
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_027.EscalerasEscherAtlas_Cube_027
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_026.EscalerasEscherAtlas_Cube_026
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_025.EscalerasEscherAtlas_Cube_025
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_024.EscalerasEscherAtlas_Cube_024
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_023.EscalerasEscherAtlas_Cube_023
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_022.EscalerasEscherAtlas_Cube_022
+[2021.01.29-10.14.45:212][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_021.EscalerasEscherAtlas_Cube_021
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_020.EscalerasEscherAtlas_Cube_020
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_019.EscalerasEscherAtlas_Cube_019
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_018.EscalerasEscherAtlas_Cube_018
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_016.EscalerasEscherAtlas_Cube_016
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_015.EscalerasEscherAtlas_Cube_015
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_014.EscalerasEscherAtlas_Cube_014
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_013.EscalerasEscherAtlas_Cube_013
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_012.EscalerasEscherAtlas_Cube_012
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_011.EscalerasEscherAtlas_Cube_011
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_010.EscalerasEscherAtlas_Cube_010
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_009.EscalerasEscherAtlas_Cube_009
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_008.EscalerasEscherAtlas_Cube_008
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_007.EscalerasEscherAtlas_Cube_007
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_006.EscalerasEscherAtlas_Cube_006
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_005.EscalerasEscherAtlas_Cube_005
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_002.EscalerasEscherAtlas_Cube_002
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_001.EscalerasEscherAtlas_Cube_001
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_004.EscalerasEscherAtlas_Cube_004
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_003.EscalerasEscherAtlas_Cube_003
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating Material /Game/Models/source/Material_001.Material_001
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube.EscalerasEscherAtlas_Cube
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_075.EscalerasEscherAtlas_Cube_075
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_076.EscalerasEscherAtlas_Cube_076
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_077.EscalerasEscherAtlas_Cube_077
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_078.EscalerasEscherAtlas_Cube_078
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_079.EscalerasEscherAtlas_Cube_079
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_080.EscalerasEscherAtlas_Cube_080
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_081.EscalerasEscherAtlas_Cube_081
+[2021.01.29-10.14.45:213][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cylinder_001.EscalerasEscherAtlas_Cylinder_001
+[2021.01.29-10.14.45:214][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_004.EscalerasEscherAtlas_Circle_004
+[2021.01.29-10.14.45:214][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_005.EscalerasEscherAtlas_Circle_005
+[2021.01.29-10.14.45:214][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cylinder_000.EscalerasEscherAtlas_Cylinder_000
+[2021.01.29-10.14.45:214][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Circle_007.EscalerasEscherAtlas_Circle_007
+[2021.01.29-10.14.45:214][887]LogContentValidation: Display: Validating StaticMesh /Game/Models/source/EscalerasEscherAtlas_Cube_082.EscalerasEscherAtlas_Cube_082
+[2021.01.29-10.14.47:373][101]Cmd: EDIT PASTE
+[2021.01.29-10.14.47:413][101]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.29-10.14.48:215][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.01.29-10.14.48:243][153]LogSavePackage: Moving '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Saved/LevelJaviAAB9ACFA4900183323E937BA460B03EE.tmp' to '../../../../../../Users/Javi/Documents/GitHub/GlobalGameJam2021/GlobalGameJam/Content/GlobalGameJam/Levels/LevelJavi.umap'
+[2021.01.29-10.14.48:262][153]AssetCheck: New page: Asset Save: LevelJavi
+[2021.01.29-10.14.48:262][153]LogContentValidation: Display: Validating World /Game/GlobalGameJam/Levels/LevelJavi.LevelJavi
+[2021.01.29-10.15.10:328][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.01.29-10.15.11:127][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
