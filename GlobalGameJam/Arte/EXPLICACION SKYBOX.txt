@@ -1,0 +1,10 @@
+PARA PONER EL SKYBOX
+
+Arrastrar a escena el BLUEPRINT Skybox_BP (o similar). 
+
+Irse a la carpeta Materiales y seleccionar SpaceMAT y arrastrar al apartado de material del blueprint (en Detalles). 
+
+Cambiar los parámetros justo debajo de "Star Brightness, Power y Scene Brightness" a 1 para que se pueda ver. 
+Para mí es demasiado. Yo recomendaría 0.2, 0.5 y 0.1. O algo así, no me acuerdo... F. El caso es que no te destroce los ojos pls. 
+
+Aumentar el tamaño a 100 o lo que se vea necesario.
