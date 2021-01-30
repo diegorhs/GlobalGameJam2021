@@ -104,12 +104,21 @@ void AGlobalGameJamCharacter::TurnAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
 	AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
+
+	FVector Forward = FollowCamera->GetForwardVector();
+	FRotator ResultRotated = Forward.Rotation();
+	SetActorRotation(ResultRotated);
+
 }
 
 void AGlobalGameJamCharacter::LookUpAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
 	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
+
+	FVector Forward = FollowCamera->GetForwardVector();
+	FRotator ResultRotated = Forward.Rotation();
+	SetActorRotation(ResultRotated);
 }
 
 /*
