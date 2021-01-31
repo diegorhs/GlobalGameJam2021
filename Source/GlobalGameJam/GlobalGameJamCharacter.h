@@ -41,7 +41,7 @@ private:
 	float InitialPitch = 0;
 
 	UPROPERTY(EditAnywhere)
-	float Grades = 40;
+	float Grades = 360;
 
 protected:
 
